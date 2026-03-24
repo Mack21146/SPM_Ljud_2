@@ -1162,3 +1162,288 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.24-15.36.39:199][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 4.310767
 [2026.03.24-15.36.39:201][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 518340485
 [2026.03.24-15.36.39:202][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4.310767, Update Interval: 304.552155
+[2026.03.24-15.37.56:683][ 47]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.24-15.38.00:725][ 47]LogSlate: Window 'New Level' being destroyed
+[2026.03.24-15.38.00:743][ 47]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-15.38.00:743][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-15.38.00:743][ 47]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.24-15.38.00:757][ 47]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.24-15.38.00:785][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.24-15.38.00:787][ 47]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.03.24-15.38.00:789][ 47]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.03.24-15.38.00:827][ 49]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-15.38.02:765][ 49]LogD3D12RHI: Creating RTPSO with 12 shaders (0 cached, 12 new) took 1937.91 ms. Compile time 21.11 ms, link time 1916.79 ms.
+[2026.03.24-15.38.07:809][463]LogSlate: Window 'Save Level As' being destroyed
+[2026.03.24-15.38.17:601][773]LogSlate: Window 'Save Level As' being destroyed
+[2026.03.24-15.38.17:644][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ljud_2" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Ljud_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.24-15.38.17:661][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.24-15.38.17:668][773]LogSavePackage: Moving output files for package: /Game/Ljud_2
+[2026.03.24-15.38.17:668][773]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/Ljud_22A8819B1446D62F4AF45AFAEFCF8D895.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Ljud_2.umap'
+[2026.03.24-15.38.17:680][773]LogFileHelpers: Saving map 'Ljud_2' took 0.067
+[2026.03.24-15.38.17:680][773]Cmd: MAP LOAD FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Ljud_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.24-15.38.17:685][773]LogWorld: UWorld::CleanupWorld for Ljud_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-15.38.17:685][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-15.38.17:697][773]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.24-15.38.17:698][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.24-15.38.17:698][773]LogStreaming: Display: FlushAsyncLoading(398): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.24-15.38.17:699][773]LogAudio: Display: Audio Device (ID: 1) registered with world 'Ljud_2'.
+[2026.03.24-15.38.17:699][773]LogChaosDD: Creating Chaos Debug Draw Scene for world Ljud_2
+[2026.03.24-15.38.17:707][773]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.24-15.38.17:718][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.24-15.38.17:720][773]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.24-15.38.17:720][773]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,032ms to complete.
+[2026.03.24-15.38.17:741][773]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-15.38.17:741][773]LogContentValidation: Enabled validators:
+[2026.03.24-15.38.17:741][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-15.38.17:741][773]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-15.38.17:741][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-15.38.17:741][773]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-15.38.17:741][773]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-15.38.17:741][773]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-15.38.17:741][773]AssetCheck: /Game/Ljud_2 Validating asset
+[2026.03.24-15.38.17:754][773]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-15.38.17:757][774]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-15.38.25:145][591]LogSlate: External Image Picker: DecompressImage failed
+[2026.03.24-15.38.25:244][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.03.24-15.38.25:951][661]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.25:960][662]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.25:968][663]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:004][664]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:008][664]LogD3D12RHI: Creating RTPSO with 14 shaders (0 cached, 2 new) took 55.45 ms. Compile time 51.29 ms, link time 4.14 ms.
+[2026.03.24-15.38.26:014][665]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:019][666]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:027][667]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:037][668]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:044][669]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:054][670]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:062][671]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:070][672]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:079][673]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:086][674]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:095][675]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:104][676]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:112][677]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:120][678]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:128][679]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:137][680]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:146][681]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:153][682]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:161][683]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:171][684]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:179][685]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:187][686]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:195][687]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:204][688]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:212][689]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:220][690]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:230][691]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:237][692]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:245][693]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:254][694]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:262][695]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:271][696]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:279][697]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:287][698]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:295][699]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:304][700]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:312][701]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:320][702]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:328][703]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:337][704]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:374][705]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:381][706]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:387][707]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:395][708]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:404][709]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:413][710]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:420][711]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:429][712]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:438][713]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:445][714]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:454][715]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:462][716]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:470][717]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:479][718]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:487][719]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:495][720]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:504][721]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:512][722]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:520][723]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:528][724]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:537][725]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:546][726]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:554][727]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:562][728]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:570][729]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:578][730]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:587][731]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:595][732]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:604][733]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:612][734]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:620][735]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:629][736]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:637][737]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:645][738]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:653][739]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:661][740]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:670][741]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:679][742]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:687][743]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:696][744]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:704][745]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:712][746]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:720][747]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:729][748]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:737][749]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:745][750]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:754][751]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:762][752]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:770][753]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:778][754]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:787][755]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:796][756]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:801][757]LogDerivedDataCache: C:/Users/mabl0912/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.24-15.38.26:804][757]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:812][758]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:821][759]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:829][760]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:837][761]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:845][762]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:855][763]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:864][764]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:872][765]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:880][766]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:888][767]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:897][768]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:905][769]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:913][770]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:922][771]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:930][772]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:938][773]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:946][774]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:955][775]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:963][776]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:971][777]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:980][778]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:988][779]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.26:996][780]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:005][781]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:013][782]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:022][783]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:030][784]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:038][785]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:046][786]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:055][787]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:063][788]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:071][789]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:080][790]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:089][791]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:096][792]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:105][793]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:113][794]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:122][795]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:130][796]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:138][797]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:146][798]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:155][799]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:163][800]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:171][801]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:180][802]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:188][803]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:197][804]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:205][805]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:214][806]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:222][807]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:231][808]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:239][809]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:248][810]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:255][811]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:264][812]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:272][813]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:281][814]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:288][815]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:297][816]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:305][817]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:314][818]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:322][819]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:330][820]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:339][821]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:347][822]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:355][823]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:373][824]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:381][825]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:389][826]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:398][827]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:406][828]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:414][829]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:423][830]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:430][831]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:439][832]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:448][833]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:455][834]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:464][835]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:473][836]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:481][837]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:489][838]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:497][839]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:505][840]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:514][841]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:523][842]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:612][851]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:637][852]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:644][853]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:653][854]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:661][855]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:670][856]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:678][857]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:686][858]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:694][859]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:703][860]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:711][861]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:719][862]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:728][863]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:736][864]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:744][865]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:753][866]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:761][867]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:769][868]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:778][869]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:786][870]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:794][871]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:803][872]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:812][873]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:820][874]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:828][875]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:836][876]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:844][877]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:853][878]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:861][879]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:869][880]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:877][881]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:886][882]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:894][883]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:903][884]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:911][885]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:920][886]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:928][887]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:936][888]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:944][889]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:953][890]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:961][891]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:970][892]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:979][893]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:986][894]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.27:994][895]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.28:003][896]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.28:011][897]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.28:020][898]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.28:028][899]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.28:037][900]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.28:044][901]LogRenderer: Using fallback RTPSO
+[2026.03.24-15.38.28:046][901]LogD3D12RHI: Creating RTPSO with 15 shaders (2 cached, 1 new) took 2041.69 ms. Compile time 21.54 ms, link time 2020.13 ms.
+[2026.03.24-15.38.39:232][220]LogSlate: Window 'Project Settings' being destroyed
+[2026.03.24-15.38.39:238][220]LogSlate: Window 'Project Settings' being destroyed
