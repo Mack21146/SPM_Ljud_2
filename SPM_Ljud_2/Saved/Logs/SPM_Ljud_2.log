@@ -1962,3 +1962,220 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.24-15.44.59:226][237]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2026.03.24-15.44.59:226][237]LogShaderCompilers: Display: Material Cache Hits: 15 (9%)
 [2026.03.24-15.44.59:226][237]LogShaderCompilers: Display: ================================================
+[2026.03.24-15.45.25:057][427]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.03.24-15.45.25:879][484]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.03.24-15.46.24:536][490]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.03.24-15.46.29:043][795]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-15.46.29:072][795]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-15.46.29:080][796]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-15.46.35:172][248]LogContentBrowser: Attempting asset rename: NewFolder -> SoundFX
+[2026.03.24-15.46.35:172][248]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-15.46.37:909][443]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-15.46.37:915][443]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-15.46.37:922][444]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-15.46.40:031][603]LogContentBrowser: Attempting asset rename: NewFolder -> Music
+[2026.03.24-15.46.40:031][603]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-15.46.44:418][918]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-15.46.44:425][918]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-15.46.44:440][920]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-15.46.49:127][269]LogContentBrowser: Attempting asset rename: NewFolder -> Folie
+[2026.03.24-15.46.49:127][269]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-15.46.51:356][428]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-15.46.51:362][428]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-15.46.51:369][429]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-15.46.57:479][884]LogContentBrowser: Attempting asset rename: NewFolder -> Fire
+[2026.03.24-15.46.57:480][884]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-15.46.59:770][ 47]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-15.46.59:776][ 47]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-15.46.59:782][ 48]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-15.47.09:048][754]LogContentBrowser: Attempting asset rename: NewFolder -> Demon_Skulls
+[2026.03.24-15.47.09:049][754]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-15.47.10:880][885]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-15.47.10:887][885]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-15.47.10:894][886]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-15.47.16:524][323]LogContentBrowser: Attempting asset rename: NewFolder -> Chains
+[2026.03.24-15.47.16:524][323]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-15.47.19:330][512]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-15.47.19:360][512]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-15.47.19:367][513]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-15.47.21:417][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 324.014679
+[2026.03.24-15.47.21:606][679]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-15.47.21:606][679]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 324.191223, Update Interval: 356.288330
+[2026.03.24-15.47.24:459][888]LogContentBrowser: Attempting asset rename: NewFolder -> Stone_Rubble
+[2026.03.24-15.47.24:469][888]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-15.47.34:456][935]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-15.47.34:480][935]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-15.47.34:487][936]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-15.47.58:267][796]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2026.03.24-15.47.58:267][796]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: ================================================
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Total job queries 611, among them cache hits 107 (17.51%), DDC hits 317 (51.88%), Duplicates 139 (22.75%)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Tracking 365 distinct input hashes that result in 260 distinct outputs (71.23%)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: RAM used: 3,51 MiB of 1,60 GiB budget. Usage: 0.21%
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Shaders Compiled: 48
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Average time worker was idle: 33.20 s
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Time job spent in pending queue: average 0.66 s, longest 1.84 s
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 2.26 s
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Job life time (pending + execution): average 1.63 s, max 2.79
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Shader code size: total 518,674 KiB, numShaders 49, average 10,585 KiB, min 2,105 KiB, max 19,102 KiB
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.20 s
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 1.14 jobs/batch
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Average processing rate: 9.23 jobs/sec
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Total thread time: 32,808 s
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Total thread preprocess time: 7,408 s
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Percentage time preprocessing: 22.58%
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Effective parallelization: 6.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.394120
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 1.93 sec, max 1.97 sec, min 1.89 sec)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.02 sec, max 1.31 sec, min 0.73 sec)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    9 times, average 0.97 sec, max 1.03 sec, min 0.89 sec)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.80 sec, max 0.92 sec, min 0.67 sec)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 29.44% of total time (compiled    5 times, average 1.93 sec, max 1.97 sec, min 1.89 sec)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.64% of total time (compiled    9 times, average 0.97 sec, max 1.03 sec, min 0.89 sec)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.90% of total time (compiled    6 times, average 0.43 sec, max 0.55 sec, min 0.26 sec)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.20% of total time (compiled    2 times, average 1.02 sec, max 1.31 sec, min 0.73 sec)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.46% of total time (compiled    6 times, average 0.30 sec, max 0.41 sec, min 0.19 sec)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: === Material stats ===
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Materials Translated:    173
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Material Translation Only: 0.04 s (25%)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: Material Cache Hits: 15 (9%)
+[2026.03.24-15.47.59:238][873]LogShaderCompilers: Display: ================================================
+[2026.03.24-15.48.04:759][496]LogContentBrowser: Attempting asset rename: NewFolder -> Iron_Gate
+[2026.03.24-15.49.12:613][194]LogStreaming: Display: FlushAsyncLoading(333): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.24-15.49.12:662][194]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\mabl0912\Downloads\dragon-studio-fire-crackling-sounds-427410.mp3)
+[2026.03.24-15.49.12:688][194]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave dragon-studio-fire-crackling-sounds-427410...
+[2026.03.24-15.49.12:748][194]LogAudioDerivedData: Display: dragon-studio-fire-crackling-sounds-427410 compressed to 18.81% (from 3 231KB to 607KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.24-15.49.12:749][194]LogAudio: Display: Chunk stats for (SoundWave /Game/SoundFX/Fire/dragon-studio-fire-crackling-sounds-427410.dragon-studio-fire-crackling-sounds-427410: Duration=17.23 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=4, Chunk0=28 bytes, Chunk1=262067 bytes, ChunkN=261533)
+[2026.03.24-15.49.12:751][194]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave dragon-studio-fire-crackling-sounds-427410...
+[2026.03.24-15.49.12:817][200]LogAudioDerivedData: Display: dragon-studio-fire-crackling-sounds-427410 compressed to 18.81% (from 3 231KB to 607KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.24-15.49.12:818][200]LogAudio: Display: Chunk stats for (SoundWave /Game/SoundFX/Fire/dragon-studio-fire-crackling-sounds-427410.dragon-studio-fire-crackling-sounds-427410: Duration=17.23 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=4, Chunk0=28 bytes, Chunk1=262067 bytes, ChunkN=261533)
+[2026.03.24-15.49.34:458][244]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-15.49.34:480][244]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-15.49.34:486][245]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-15.49.36:899][533]LogContentBrowser: Attempting asset rename: NewFolder -> Ambient
+[2026.03.24-15.49.36:899][533]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-15.49.41:632][ 52]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\mabl0912\Downloads\soundreality-wind-blowing-457954.mp3)
+[2026.03.24-15.49.41:685][ 52]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave soundreality-wind-blowing-457954...
+[2026.03.24-15.49.41:825][ 52]LogAudioDerivedData: Display: soundreality-wind-blowing-457954 compressed to 14.91% (from 8 014KB to 1 195KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.24-15.49.41:827][ 52]LogAudio: Display: Chunk stats for (SoundWave /Game/SoundFX/Ambient/soundreality-wind-blowing-457954.soundreality-wind-blowing-457954: Duration=42.74 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=6, Chunk0=28 bytes, Chunk1=261861 bytes, ChunkN=262047)
+[2026.03.24-15.49.41:831][ 52]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave soundreality-wind-blowing-457954...
+[2026.03.24-15.49.41:997][ 70]LogAudioDerivedData: Display: soundreality-wind-blowing-457954 compressed to 14.91% (from 8 014KB to 1 195KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.24-15.49.41:998][ 70]LogAudio: Display: Chunk stats for (SoundWave /Game/SoundFX/Ambient/soundreality-wind-blowing-457954.soundreality-wind-blowing-457954: Duration=42.74 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=6, Chunk0=28 bytes, Chunk1=261861 bytes, ChunkN=262047)
+[2026.03.24-15.49.49:323][921]LogContentBrowser: Attempting asset rename: soundreality-wind-blowing-457954 -> SW_Wind
+[2026.03.24-15.49.49:394][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-15.49.49:394][921]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SoundFX/Ambient/SW_Wind] ([1] browsable assets)...
+[2026.03.24-15.49.49:403][921]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SoundFX/Ambient/SW_Wind.SW_Wind]
+[2026.03.24-15.49.49:403][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/SoundFX/Ambient/SW_Wind]
+[2026.03.24-15.49.49:403][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SoundFX/Ambient/SW_Wind" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/SoundFX/Ambient/SW_Wind.uasset" SILENT=true
+[2026.03.24-15.49.49:417][921]LogSavePackage: Moving output files for package: /Game/SoundFX/Ambient/SW_Wind
+[2026.03.24-15.49.49:417][921]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_Wind02CC7F5648F7AF42BE0F619FEB2560D1.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/SoundFX/Ambient/SW_Wind.uasset'
+[2026.03.24-15.49.49:418][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.501 ms
+[2026.03.24-15.49.49:441][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.24-15.49.49:455][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.03.24-15.49.49:466][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.03.24-15.49.49:499][921]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-15.49.49:499][921]LogContentValidation: Enabled validators:
+[2026.03.24-15.49.49:499][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-15.49.49:499][921]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-15.49.49:499][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-15.49.49:499][921]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-15.49.49:499][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-15.49.49:499][921]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-15.49.49:499][921]AssetCheck: /Game/SoundFX/Ambient/SW_Wind Validating asset
+[2026.03.24-15.49.49:535][921]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-15.49.50:106][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-15.49.50:137][990]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SoundFX/Ambient/SW_Wind] ([1] browsable assets)...
+[2026.03.24-15.49.50:137][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/SoundFX/Ambient/SW_Wind]
+[2026.03.24-15.49.50:137][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SoundFX/Ambient/SW_Wind" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/SoundFX/Ambient/SW_Wind.uasset" SILENT=true
+[2026.03.24-15.49.50:151][990]LogSavePackage: Moving output files for package: /Game/SoundFX/Ambient/SW_Wind
+[2026.03.24-15.49.50:152][990]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_Wind3470311D4B5A4EA4FEFAD9A039B4EAF1.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/SoundFX/Ambient/SW_Wind.uasset'
+[2026.03.24-15.49.50:158][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.466 ms (total: 74.968 ms)
+[2026.03.24-15.49.50:181][990]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-15.49.50:182][990]LogContentValidation: Enabled validators:
+[2026.03.24-15.49.50:182][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-15.49.50:182][990]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-15.49.50:182][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-15.49.50:182][990]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-15.49.50:182][990]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-15.49.50:182][990]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-15.49.50:182][990]AssetCheck: /Game/SoundFX/Ambient/SW_Wind Validating asset
+[2026.03.24-15.50.04:382][643]LogContentBrowser: Attempting asset rename: dragon-studio-fire-crackling-sounds-427410 -> SW_Furnace
+[2026.03.24-15.50.04:442][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-15.50.04:442][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SoundFX/Fire/SW_Furnace] ([1] browsable assets)...
+[2026.03.24-15.50.04:444][643]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SoundFX/Fire/SW_Furnace.SW_Furnace]
+[2026.03.24-15.50.04:444][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/SoundFX/Fire/SW_Furnace]
+[2026.03.24-15.50.04:444][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SoundFX/Fire/SW_Furnace" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/SoundFX/Fire/SW_Furnace.uasset" SILENT=true
+[2026.03.24-15.50.04:463][643]LogSavePackage: Moving output files for package: /Game/SoundFX/Fire/SW_Furnace
+[2026.03.24-15.50.04:463][643]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_FurnaceA0AD2EEC473F5114F02CE591B33189AA.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/SoundFX/Fire/SW_Furnace.uasset'
+[2026.03.24-15.50.04:464][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 21.502 ms (total: 96.470 ms)
+[2026.03.24-15.50.04:485][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.24-15.50.04:496][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.03.24-15.50.04:505][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.24-15.50.04:535][643]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-15.50.04:535][643]LogContentValidation: Enabled validators:
+[2026.03.24-15.50.04:535][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-15.50.04:535][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-15.50.04:535][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-15.50.04:535][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-15.50.04:535][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-15.50.04:535][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-15.50.04:535][643]AssetCheck: /Game/SoundFX/Fire/SW_Furnace Validating asset
+[2026.03.24-15.50.04:565][643]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-15.50.05:097][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-15.50.05:121][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SoundFX/Fire/SW_Furnace] ([1] browsable assets)...
+[2026.03.24-15.50.05:121][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/SoundFX/Fire/SW_Furnace]
+[2026.03.24-15.50.05:121][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SoundFX/Fire/SW_Furnace" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/SoundFX/Fire/SW_Furnace.uasset" SILENT=true
+[2026.03.24-15.50.05:133][707]LogSavePackage: Moving output files for package: /Game/SoundFX/Fire/SW_Furnace
+[2026.03.24-15.50.05:133][707]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_Furnace59CE2995428334610914A19A8AC5CDAC.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/SoundFX/Fire/SW_Furnace.uasset'
+[2026.03.24-15.50.05:139][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.320 ms (total: 138.790 ms)
+[2026.03.24-15.50.05:164][707]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-15.50.05:164][707]LogContentValidation: Enabled validators:
+[2026.03.24-15.50.05:164][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-15.50.05:164][707]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-15.50.05:164][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-15.50.05:164][707]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-15.50.05:164][707]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-15.50.05:164][707]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-15.50.05:164][707]AssetCheck: /Game/SoundFX/Fire/SW_Furnace Validating asset
+[2026.03.24-15.50.10:017][262]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-15.50.10:040][262]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-15.50.10:047][263]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-15.50.13:414][662]LogContentBrowser: Attempting asset rename: NewFolder -> Furnace
+[2026.03.24-15.50.13:414][662]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-15.50.15:474][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-15.50.15:474][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SoundFX/Fire/Furnace/SW_Furnace] ([1] browsable assets)...
+[2026.03.24-15.50.15:474][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/SoundFX/Fire/Furnace/SW_Furnace]
+[2026.03.24-15.50.15:486][864]LogSavePackage: Moving output files for package: /Game/SoundFX/Fire/Furnace/SW_Furnace
+[2026.03.24-15.50.15:486][864]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_Furnace3271F30B40D2D423898B9D8B59A818DE.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/SoundFX/Fire/Furnace/SW_Furnace.uasset'
+[2026.03.24-15.50.15:486][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.365 ms (total: 152.156 ms)
+[2026.03.24-15.50.15:516][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.24-15.50.15:530][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.03.24-15.50.15:541][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.03.24-15.50.15:559][864]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.24-15.50.15:559][864]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-15.50.15:559][864]LogContentValidation: Enabled validators:
+[2026.03.24-15.50.15:559][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-15.50.15:559][864]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-15.50.15:559][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-15.50.15:559][864]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-15.50.15:559][864]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-15.50.15:559][864]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-15.50.15:559][864]AssetCheck: /Game/SoundFX/Fire/Furnace/SW_Furnace Validating asset
+[2026.03.24-15.50.15:571][864]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-15.50.18:344][175]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-15.50.18:366][175]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-15.50.18:373][176]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-15.51.19:429][415]LogContentBrowser: Attempting asset rename: NewFolder -> Candles
+[2026.03.24-15.51.19:429][415]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-15.53.20:286][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 682.878052
+[2026.03.24-15.53.21:275][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-15.53.21:275][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 683.538696, Update Interval: 312.273926
