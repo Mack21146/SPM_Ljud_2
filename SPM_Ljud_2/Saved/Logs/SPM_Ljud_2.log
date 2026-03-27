@@ -2899,3 +2899,545 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.03.27-14.52.34:224][327]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.27-14.52.34:224][327]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.27-14.52.34:224][327]AssetCheck: /Game/MapsBundle/HellCage/Levels/HellCage_Final Validating asset
+[2026.03.27-14.55.14:872][641]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2490.657715
+[2026.03.27-14.55.15:872][645]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-14.55.15:872][645]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2491.342041, Update Interval: 359.730835
+[2026.03.27-14.57.51:513][236]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.27-14.57.51:521][236]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.27-14.57.51:529][237]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.27-14.57.55:717][740]LogContentBrowser: Attempting asset rename: NewFolder -> WaterDrips
+[2026.03.27-14.57.55:717][740]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.27-14.58.03:743][112]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\mabl0912\Documents\Audacity\WaterDrip_4.wav)
+[2026.03.27-14.58.03:745][112]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave WaterDrip_4...
+[2026.03.27-14.58.03:748][112]LogAudioDerivedData: Display: WaterDrip_4 compressed to 4.20% (from 121KB to 5KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.27-14.58.03:748][112]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SoundFX/WaterDrips/WaterDrip_4.WaterDrip_4: Duration=0.65 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=5225 bytes, ChunkN=0)
+[2026.03.27-14.58.03:748][112]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave WaterDrip_4...
+[2026.03.27-14.58.03:748][112]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\mabl0912\Documents\Audacity\WaterDrip_5.wav)
+[2026.03.27-14.58.03:749][112]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave WaterDrip_5...
+[2026.03.27-14.58.03:750][112]LogAudioDerivedData: Display: WaterDrip_4 compressed to 4.20% (from 121KB to 5KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.27-14.58.03:750][112]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SoundFX/WaterDrips/WaterDrip_4.WaterDrip_4: Duration=0.65 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=5225 bytes, ChunkN=0)
+[2026.03.27-14.58.03:750][112]LogAudioDerivedData: Display: WaterDrip_5 compressed to 5.04% (from 84KB to 4KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.27-14.58.03:750][112]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SoundFX/WaterDrips/WaterDrip_5.WaterDrip_5: Duration=0.45 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=4359 bytes, ChunkN=0)
+[2026.03.27-14.58.03:750][112]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\mabl0912\Documents\Audacity\WaterDrip_1.wav)
+[2026.03.27-14.58.03:752][112]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave WaterDrip_5...
+[2026.03.27-14.58.03:752][112]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave WaterDrip_1...
+[2026.03.27-14.58.03:753][112]LogAudioDerivedData: Display: WaterDrip_5 compressed to 5.04% (from 84KB to 4KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.27-14.58.03:753][112]LogAudioDerivedData: Display: WaterDrip_1 compressed to 7.99% (from 81KB to 6KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.27-14.58.03:753][112]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SoundFX/WaterDrips/WaterDrip_5.WaterDrip_5: Duration=0.45 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=4359 bytes, ChunkN=0)
+[2026.03.27-14.58.03:753][112]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SoundFX/WaterDrips/WaterDrip_1.WaterDrip_1: Duration=0.43 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=6633 bytes, ChunkN=0)
+[2026.03.27-14.58.03:754][112]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\mabl0912\Documents\Audacity\WaterDrip_2.wav)
+[2026.03.27-14.58.03:754][112]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave WaterDrip_1...
+[2026.03.27-14.58.03:755][112]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave WaterDrip_2...
+[2026.03.27-14.58.03:756][112]LogAudioDerivedData: Display: WaterDrip_1 compressed to 7.99% (from 81KB to 6KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.27-14.58.03:756][112]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SoundFX/WaterDrips/WaterDrip_1.WaterDrip_1: Duration=0.43 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=6633 bytes, ChunkN=0)
+[2026.03.27-14.58.03:758][112]LogAudioDerivedData: Display: WaterDrip_2 compressed to 5.52% (from 125KB to 6KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.27-14.58.03:758][112]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SoundFX/WaterDrips/WaterDrip_2.WaterDrip_2: Duration=0.67 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=7065 bytes, ChunkN=0)
+[2026.03.27-14.58.03:758][112]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave WaterDrip_2...
+[2026.03.27-14.58.03:758][112]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\mabl0912\Documents\Audacity\WaterDrip_3.wav)
+[2026.03.27-14.58.03:759][112]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave WaterDrip_3...
+[2026.03.27-14.58.03:760][112]LogAudioDerivedData: Display: WaterDrip_2 compressed to 5.52% (from 125KB to 6KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.27-14.58.03:760][112]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SoundFX/WaterDrips/WaterDrip_2.WaterDrip_2: Duration=0.67 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=7065 bytes, ChunkN=0)
+[2026.03.27-14.58.03:760][112]LogAudioDerivedData: Display: WaterDrip_3 compressed to 5.51% (from 91KB to 5KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.27-14.58.03:760][112]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SoundFX/WaterDrips/WaterDrip_3.WaterDrip_3: Duration=0.49 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=5169 bytes, ChunkN=0)
+[2026.03.27-14.58.03:761][112]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave WaterDrip_3...
+[2026.03.27-14.58.03:762][112]LogAudioDerivedData: Display: WaterDrip_3 compressed to 5.51% (from 91KB to 5KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.03.27-14.58.03:762][112]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SoundFX/WaterDrips/WaterDrip_3.WaterDrip_3: Duration=0.49 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=5169 bytes, ChunkN=0)
+[2026.03.27-14.58.11:457][857]LogContentBrowser: Attempting asset rename: WaterDrip_1 -> SW_WaterDrip_1
+[2026.03.27-14.58.11:505][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-14.58.11:505][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_1] ([1] browsable assets)...
+[2026.03.27-14.58.11:506][857]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_1.SW_WaterDrip_1]
+[2026.03.27-14.58.11:506][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_1]
+[2026.03.27-14.58.11:513][857]LogSavePackage: Moving output files for package: /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_1
+[2026.03.27-14.58.11:513][857]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_WaterDrip_1B2750F654556CD01D9A525B579E64546.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundFX/WaterDrips/SW_WaterDrip_1.uasset'
+[2026.03.27-14.58.11:515][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.103 ms (total: 2.13 sec)
+[2026.03.27-14.58.11:543][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.27-14.58.11:556][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.03.27-14.58.11:568][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.03.27-14.58.11:596][857]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-14.58.11:596][857]LogContentValidation: Enabled validators:
+[2026.03.27-14.58.11:596][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-14.58.11:596][857]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-14.58.11:596][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-14.58.11:596][857]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-14.58.11:596][857]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-14.58.11:596][857]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-14.58.11:596][857]AssetCheck: /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_1 Validating asset
+[2026.03.27-14.58.11:633][857]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-14.58.18:183][600]LogContentBrowser: Attempting asset rename: WaterDrip_2 -> SW_WaterDrip_2
+[2026.03.27-14.58.18:223][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-14.58.18:223][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_2] ([1] browsable assets)...
+[2026.03.27-14.58.18:225][600]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_2.SW_WaterDrip_2]
+[2026.03.27-14.58.18:225][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_2]
+[2026.03.27-14.58.18:235][600]LogSavePackage: Moving output files for package: /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_2
+[2026.03.27-14.58.18:235][600]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_WaterDrip_205D26B2F4A2942697F7429843A7A43C3.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundFX/WaterDrips/SW_WaterDrip_2.uasset'
+[2026.03.27-14.58.18:235][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.354 ms (total: 2.14 sec)
+[2026.03.27-14.58.18:258][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.03.27-14.58.18:272][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.03.27-14.58.18:284][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.27-14.58.18:318][600]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-14.58.18:318][600]LogContentValidation: Enabled validators:
+[2026.03.27-14.58.18:318][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-14.58.18:318][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-14.58.18:318][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-14.58.18:318][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-14.58.18:318][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-14.58.18:318][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-14.58.18:318][600]AssetCheck: /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_2 Validating asset
+[2026.03.27-14.58.18:349][600]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-14.58.23:033][122]LogContentBrowser: Attempting asset rename: WaterDrip_3 -> SW_WaterDrip_3
+[2026.03.27-14.58.23:077][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-14.58.23:077][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_3] ([1] browsable assets)...
+[2026.03.27-14.58.23:078][122]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_3.SW_WaterDrip_3]
+[2026.03.27-14.58.23:078][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_3]
+[2026.03.27-14.58.23:085][122]LogSavePackage: Moving output files for package: /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_3
+[2026.03.27-14.58.23:085][122]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_WaterDrip_3FA068C194A8E4974112BF787BBBE7FF7.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundFX/WaterDrips/SW_WaterDrip_3.uasset'
+[2026.03.27-14.58.23:086][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.327 ms (total: 2.15 sec)
+[2026.03.27-14.58.23:109][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.03.27-14.58.23:122][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.27-14.58.23:135][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.03.27-14.58.23:162][122]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-14.58.23:162][122]LogContentValidation: Enabled validators:
+[2026.03.27-14.58.23:162][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-14.58.23:162][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-14.58.23:162][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-14.58.23:162][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-14.58.23:162][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-14.58.23:162][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-14.58.23:162][122]AssetCheck: /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_3 Validating asset
+[2026.03.27-14.58.23:195][122]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-14.58.27:623][614]LogContentBrowser: Attempting asset rename: WaterDrip_4 -> SW_WaterDrip_4
+[2026.03.27-14.58.27:667][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-14.58.27:668][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_4] ([1] browsable assets)...
+[2026.03.27-14.58.27:669][614]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_4.SW_WaterDrip_4]
+[2026.03.27-14.58.27:669][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_4]
+[2026.03.27-14.58.27:676][614]LogSavePackage: Moving output files for package: /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_4
+[2026.03.27-14.58.27:676][614]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_WaterDrip_4BEA5C0204BF873ACFC099AA70E9B3200.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundFX/WaterDrips/SW_WaterDrip_4.uasset'
+[2026.03.27-14.58.27:677][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.112 ms (total: 2.16 sec)
+[2026.03.27-14.58.27:699][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.27-14.58.27:711][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.03.27-14.58.27:723][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.03.27-14.58.27:754][614]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-14.58.27:754][614]LogContentValidation: Enabled validators:
+[2026.03.27-14.58.27:754][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-14.58.27:754][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-14.58.27:754][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-14.58.27:754][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-14.58.27:754][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-14.58.27:754][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-14.58.27:754][614]AssetCheck: /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_4 Validating asset
+[2026.03.27-14.58.27:787][614]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-14.58.32:368][146]LogContentBrowser: Attempting asset rename: WaterDrip_5 -> SW_WaterDrip_5
+[2026.03.27-14.58.32:417][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-14.58.32:417][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_5] ([1] browsable assets)...
+[2026.03.27-14.58.32:419][146]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_5.SW_WaterDrip_5]
+[2026.03.27-14.58.32:419][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_5]
+[2026.03.27-14.58.32:425][146]LogSavePackage: Moving output files for package: /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_5
+[2026.03.27-14.58.32:425][146]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_WaterDrip_52207590343CCA59946D636B9DFCCD129.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundFX/WaterDrips/SW_WaterDrip_5.uasset'
+[2026.03.27-14.58.32:425][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.428 ms (total: 2.17 sec)
+[2026.03.27-14.58.32:446][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.27-14.58.32:461][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.03.27-14.58.32:472][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.27-14.58.32:499][146]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-14.58.32:499][146]LogContentValidation: Enabled validators:
+[2026.03.27-14.58.32:499][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-14.58.32:499][146]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-14.58.32:499][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-14.58.32:499][146]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-14.58.32:499][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-14.58.32:499][146]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-14.58.32:500][146]AssetCheck: /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_5 Validating asset
+[2026.03.27-14.58.32:532][146]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-14.58.34:580][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.03.27-14.58.35:508][390]LogSlate: Window 'Save Content' being destroyed
+[2026.03.27-14.58.35:519][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-14.58.35:541][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_1] ([1] browsable assets)...
+[2026.03.27-14.58.35:541][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_1]
+[2026.03.27-14.58.35:548][390]LogSavePackage: Moving output files for package: /Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_1
+[2026.03.27-14.58.35:548][390]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_StoneCrumble_195B27ADA4ECD83E83CABC79A0020FA60.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_1.uasset'
+[2026.03.27-14.58.35:549][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_2] ([1] browsable assets)...
+[2026.03.27-14.58.35:549][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_2]
+[2026.03.27-14.58.35:554][390]LogSavePackage: Moving output files for package: /Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_2
+[2026.03.27-14.58.35:554][390]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_StoneCrumble_2B688E6F0494A02C578372DA171FE9FAE.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_2.uasset'
+[2026.03.27-14.58.35:555][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_3] ([1] browsable assets)...
+[2026.03.27-14.58.35:555][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_3]
+[2026.03.27-14.58.35:560][390]LogSavePackage: Moving output files for package: /Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_3
+[2026.03.27-14.58.35:560][390]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_StoneCrumble_39D924EE0499662B041FD318A2D27F908.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_3.uasset'
+[2026.03.27-14.58.35:560][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_4] ([1] browsable assets)...
+[2026.03.27-14.58.35:560][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_4]
+[2026.03.27-14.58.35:566][390]LogSavePackage: Moving output files for package: /Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_4
+[2026.03.27-14.58.35:566][390]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_StoneCrumble_433C2BCE948D9B82F63ECBBA27C8E9D80.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_4.uasset'
+[2026.03.27-14.58.35:566][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_5] ([1] browsable assets)...
+[2026.03.27-14.58.35:566][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_5]
+[2026.03.27-14.58.35:572][390]LogSavePackage: Moving output files for package: /Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_5
+[2026.03.27-14.58.35:572][390]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SW_StoneCrumble_5D9F38C0B4B53DE2A9BDE0B960486B39E.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_5.uasset'
+[2026.03.27-14.58.35:579][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.626 ms (total: 2.23 sec)
+[2026.03.27-14.58.35:604][390]LogContentValidation: Display: Starting to validate 5 assets
+[2026.03.27-14.58.35:604][390]LogContentValidation: Enabled validators:
+[2026.03.27-14.58.35:604][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-14.58.35:604][390]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-14.58.35:604][390]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-14.58.35:604][390]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-14.58.35:604][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-14.58.35:604][390]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-14.58.35:604][390]AssetCheck: /Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_1 Validating asset
+[2026.03.27-14.58.35:604][390]AssetCheck: /Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_2 Validating asset
+[2026.03.27-14.58.35:604][390]AssetCheck: /Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_3 Validating asset
+[2026.03.27-14.58.35:604][390]AssetCheck: /Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_4 Validating asset
+[2026.03.27-14.58.35:604][390]AssetCheck: /Game/Audio/SoundFX/StoneCrumble/OneShots/SW_StoneCrumble_5 Validating asset
+[2026.03.27-14.58.35:618][390]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-14.58.46:754][299]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2026.03.27-14.58.46:778][299]LogContentBrowser: Creating deferred item: NewSoundCue
+[2026.03.27-14.58.46:787][300]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundCue).
+[2026.03.27-14.59.02:679][202]LogContentBrowser: Attempting asset rename: NewSoundCue -> SC_WaterDrips
+[2026.03.27-14.59.02:679][202]LogContentBrowser: End creating deferred item NewSoundCue
+[2026.03.27-14.59.09:184][950]LogContentBrowser: Attempting asset rename: CS_Mumbling -> SC_Mumbling
+[2026.03.27-14.59.09:243][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-14.59.09:243][950]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/SC_Mumbling] ([1] browsable assets)...
+[2026.03.27-14.59.09:243][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/SC_Mumbling]
+[2026.03.27-14.59.09:243][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/SC_Mumbling" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_Mumbling.uasset" SILENT=true
+[2026.03.27-14.59.09:249][950]LogSavePackage: Moving output files for package: /Game/Audio/SoundCues/SC_Mumbling
+[2026.03.27-14.59.09:249][950]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SC_MumblingC9D364274158BBE224BD79AA9D9065F4.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_Mumbling.uasset'
+[2026.03.27-14.59.09:249][950]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/CS_Mumbling] ([1] browsable assets)...
+[2026.03.27-14.59.09:249][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/CS_Mumbling]
+[2026.03.27-14.59.09:249][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/CS_Mumbling" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/CS_Mumbling.uasset" SILENT=true
+[2026.03.27-14.59.09:253][950]LogSavePackage: Moving output files for package: /Game/Audio/SoundCues/CS_Mumbling
+[2026.03.27-14.59.09:254][950]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/CS_Mumbling43F61A2A4274D6769D51C1A1CE22E119.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/CS_Mumbling.uasset'
+[2026.03.27-14.59.09:254][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.889 ms (total: 2.24 sec)
+[2026.03.27-14.59.09:286][950]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.27-14.59.09:286][950]LogContentValidation: Enabled validators:
+[2026.03.27-14.59.09:286][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-14.59.09:286][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-14.59.09:286][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-14.59.09:286][950]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-14.59.09:286][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-14.59.09:286][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-14.59.09:286][950]AssetCheck: /Game/Audio/SoundCues/SC_Mumbling Validating asset
+[2026.03.27-14.59.09:286][950]AssetCheck: /Game/Audio/SoundCues/CS_Mumbling Validating asset
+[2026.03.27-14.59.09:317][950]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-14.59.18:001][929]LogContentBrowser: Deferred new asset file creation: NewSoundAttenuation
+[2026.03.27-14.59.18:008][929]LogContentBrowser: Creating deferred item: NewSoundAttenuation
+[2026.03.27-14.59.18:019][930]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundAttenuation).
+[2026.03.27-14.59.24:803][744]LogContentBrowser: Attempting asset rename: NewSoundAttenuation -> SA_WaterDrips
+[2026.03.27-14.59.24:803][744]LogContentBrowser: End creating deferred item NewSoundAttenuation
+[2026.03.27-14.59.28:776][210]LogAssetEditorSubsystem: Opening Asset editor for SoundAttenuation /Game/Audio/Attentuations/SA_WaterDrips.SA_WaterDrips
+[2026.03.27-14.59.34:144][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-14.59.34:160][696]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Attentuations/SA_WaterDrips] ([1] browsable assets)...
+[2026.03.27-14.59.34:160][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Attentuations/SA_WaterDrips]
+[2026.03.27-14.59.34:166][696]LogSavePackage: Moving output files for package: /Game/Audio/Attentuations/SA_WaterDrips
+[2026.03.27-14.59.34:166][696]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SA_WaterDripsCE30FB9542B3831498B2B9A5898C009D.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/Attentuations/SA_WaterDrips.uasset'
+[2026.03.27-14.59.34:173][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.121 ms (total: 2.27 sec)
+[2026.03.27-14.59.34:198][696]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-14.59.34:198][696]LogContentValidation: Enabled validators:
+[2026.03.27-14.59.34:198][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-14.59.34:198][696]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-14.59.34:198][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-14.59.34:198][696]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-14.59.34:198][696]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-14.59.34:198][696]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-14.59.34:199][696]AssetCheck: /Game/Audio/Attentuations/SA_WaterDrips Validating asset
+[2026.03.27-14.59.34:215][696]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-14.59.38:296][ 73]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Audio/SoundCues/SC_WaterDrips.SC_WaterDrips
+[2026.03.27-14.59.47:115][937]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/SoundFX/WaterDrips/SW_WaterDrip_5.SW_WaterDrip_5
+[2026.03.27-14.59.52:541][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-14.59.52:565][486]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/SC_WaterDrips] ([1] browsable assets)...
+[2026.03.27-14.59.52:565][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/SC_WaterDrips]
+[2026.03.27-14.59.52:565][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/SC_WaterDrips" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset" SILENT=true
+[2026.03.27-14.59.52:571][486]LogSavePackage: Moving output files for package: /Game/Audio/SoundCues/SC_WaterDrips
+[2026.03.27-14.59.52:571][486]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SC_WaterDrips2B16CD864DAC2AB470AAA081286B093D.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset'
+[2026.03.27-14.59.52:580][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.857 ms (total: 2.31 sec)
+[2026.03.27-14.59.52:605][486]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-14.59.52:605][486]LogContentValidation: Enabled validators:
+[2026.03.27-14.59.52:605][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-14.59.52:605][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-14.59.52:605][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-14.59.52:605][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-14.59.52:605][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-14.59.52:605][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-14.59.52:605][486]AssetCheck: /Game/Audio/SoundCues/SC_WaterDrips Validating asset
+[2026.03.27-14.59.52:622][486]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-15.00.22:713][532]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Audio/SoundCues/SC_WaterDrips.SC_WaterDrips was zero and has changed. Consider manually Re-saving the asset
+[2026.03.27-15.00.23:731][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-15.00.23:799][634]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/SC_WaterDrips] ([1] browsable assets)...
+[2026.03.27-15.00.23:799][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/SC_WaterDrips]
+[2026.03.27-15.00.23:799][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/SC_WaterDrips" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset" SILENT=true
+[2026.03.27-15.00.23:805][634]LogSavePackage: Moving output files for package: /Game/Audio/SoundCues/SC_WaterDrips
+[2026.03.27-15.00.23:806][634]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SC_WaterDripsF488ADE2460A8F01CD846EB0CCDBEE35.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset'
+[2026.03.27-15.00.23:814][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.769 ms (total: 2.39 sec)
+[2026.03.27-15.00.23:836][634]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-15.00.23:836][634]LogContentValidation: Enabled validators:
+[2026.03.27-15.00.23:836][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-15.00.23:836][634]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-15.00.23:836][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-15.00.23:836][634]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-15.00.23:836][634]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-15.00.23:836][634]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-15.00.23:836][634]AssetCheck: /Game/Audio/SoundCues/SC_WaterDrips Validating asset
+[2026.03.27-15.00.30:810][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-15.00.30:839][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/SC_WaterDrips] ([1] browsable assets)...
+[2026.03.27-15.00.30:839][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/SC_WaterDrips]
+[2026.03.27-15.00.30:839][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/SC_WaterDrips" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset" SILENT=true
+[2026.03.27-15.00.30:845][400]LogSavePackage: Moving output files for package: /Game/Audio/SoundCues/SC_WaterDrips
+[2026.03.27-15.00.30:845][400]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SC_WaterDripsA405322648D0F5D2072882AACEB85D14.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset'
+[2026.03.27-15.00.30:851][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.539 ms (total: 2.43 sec)
+[2026.03.27-15.00.30:872][400]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-15.00.30:872][400]LogContentValidation: Enabled validators:
+[2026.03.27-15.00.30:872][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-15.00.30:872][400]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-15.00.30:872][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-15.00.30:872][400]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-15.00.30:872][400]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-15.00.30:872][400]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-15.00.30:872][400]AssetCheck: /Game/Audio/SoundCues/SC_WaterDrips Validating asset
+[2026.03.27-15.00.33:790][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-15.00.33:809][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/SC_WaterDrips] ([1] browsable assets)...
+[2026.03.27-15.00.33:809][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/SC_WaterDrips]
+[2026.03.27-15.00.33:809][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/SC_WaterDrips" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset" SILENT=true
+[2026.03.27-15.00.33:815][705]LogSavePackage: Moving output files for package: /Game/Audio/SoundCues/SC_WaterDrips
+[2026.03.27-15.00.33:815][705]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SC_WaterDripsCF8F4BD64B1DC6CA03E9CEA5EC529193.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset'
+[2026.03.27-15.00.33:822][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.583 ms (total: 2.46 sec)
+[2026.03.27-15.00.33:845][705]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-15.00.33:845][705]LogContentValidation: Enabled validators:
+[2026.03.27-15.00.33:845][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-15.00.33:845][705]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-15.00.33:845][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-15.00.33:845][705]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-15.00.33:845][705]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-15.00.33:845][705]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-15.00.33:845][705]AssetCheck: /Game/Audio/SoundCues/SC_WaterDrips Validating asset
+[2026.03.27-15.00.47:501][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-15.00.47:522][ 20]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/SC_WaterDrips] ([1] browsable assets)...
+[2026.03.27-15.00.47:522][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/SC_WaterDrips]
+[2026.03.27-15.00.47:522][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/SC_WaterDrips" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset" SILENT=true
+[2026.03.27-15.00.47:530][ 20]LogSavePackage: Moving output files for package: /Game/Audio/SoundCues/SC_WaterDrips
+[2026.03.27-15.00.47:530][ 20]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SC_WaterDrips2F1543E1412B3DDAACF2F4B3EA75A91E.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset'
+[2026.03.27-15.00.47:537][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.928 ms (total: 2.50 sec)
+[2026.03.27-15.00.47:557][ 20]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-15.00.47:557][ 20]LogContentValidation: Enabled validators:
+[2026.03.27-15.00.47:557][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-15.00.47:557][ 20]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-15.00.47:557][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-15.00.47:557][ 20]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-15.00.47:557][ 20]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-15.00.47:557][ 20]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-15.00.47:557][ 20]AssetCheck: /Game/Audio/SoundCues/SC_WaterDrips Validating asset
+[2026.03.27-15.00.53:052][485]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/Audio/SoundCues/SC_WaterDrips.SC_WaterDrips
+[2026.03.27-15.00.53:052][485]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/Audio/SoundCues/SC_WaterDrips.SC_WaterDrips
+[2026.03.27-15.00.53:055][485]LogActorFactory: Actor Factory spawned SoundCue /Game/Audio/SoundCues/SC_WaterDrips.SC_WaterDrips as actor: AmbientSound /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final:PersistentLevel.AmbientSound_43
+[2026.03.27-15.00.53:055][485]LogActorFactory: Actor Factory spawned SoundCue /Game/Audio/SoundCues/SC_WaterDrips.SC_WaterDrips as actor: AmbientSound /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final:PersistentLevel.AmbientSound_43
+[2026.03.27-15.00.53:367][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.27-15.00.53:370][503]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2026.03.27-15.00.53:377][503]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/Audio/SoundCues/SC_WaterDrips.SC_WaterDrips
+[2026.03.27-15.00.53:377][503]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/Audio/SoundCues/SC_WaterDrips.SC_WaterDrips
+[2026.03.27-15.00.53:379][503]LogActorFactory: Actor Factory spawned SoundCue /Game/Audio/SoundCues/SC_WaterDrips.SC_WaterDrips as actor: AmbientSound /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final:PersistentLevel.AmbientSound_44
+[2026.03.27-15.00.53:380][503]LogActorFactory: Actor Factory spawned SoundCue /Game/Audio/SoundCues/SC_WaterDrips.SC_WaterDrips as actor: AmbientSound /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final:PersistentLevel.AmbientSound_44
+[2026.03.27-15.01.00:482][156]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2026.03.27-15.01.00:490][156]LogContentBrowser: Creating deferred item: NewSoundCue
+[2026.03.27-15.01.00:503][157]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundCue).
+[2026.03.27-15.01.01:119][219]LogContentBrowser: Attempting asset rename: NewSoundCue -> NewSoundCue
+[2026.03.27-15.01.01:120][219]LogContentBrowser: End creating deferred item NewSoundCue
+[2026.03.27-15.01.02:016][296]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Audio/SoundCues/NewSoundCue.NewSoundCue
+[2026.03.27-15.01.07:036][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.27-15.01.07:115][769]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.03.27-15.01.07:117][769]LogSlate: Took 0.001402 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.03.27-15.01.08:222][769]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.27-15.01.08:250][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.27-15.01.08:264][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.03.27-15.01.08:276][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.03.27-15.01.09:055][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-15.01.09:104][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.03.27-15.01.09:250][848]LogSavePackage: Moving output files for package: /Game/MapsBundle/HellCage/Levels/HellCage_Final
+[2026.03.27-15.01.09:251][848]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/HellCage_Final0564876743E353E803D4F1B225837B99.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/MapsBundle/HellCage/Levels/HellCage_Final.umap'
+[2026.03.27-15.01.09:258][848]LogFileHelpers: All files are already saved.
+[2026.03.27-15.01.09:258][848]LogFileHelpers: Saving map 'HellCage_Final' took 0.176
+[2026.03.27-15.01.09:267][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 211.662 ms (total: 2.71 sec)
+[2026.03.27-15.01.09:288][848]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-15.01.09:288][848]LogContentValidation: Enabled validators:
+[2026.03.27-15.01.09:288][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-15.01.09:288][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-15.01.09:288][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-15.01.09:288][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-15.01.09:288][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-15.01.09:288][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-15.01.09:288][848]AssetCheck: /Game/MapsBundle/HellCage/Levels/HellCage_Final Validating asset
+[2026.03.27-15.01.49:195][431]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2884.964844
+[2026.03.27-15.01.49:368][451]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-15.01.49:368][451]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2885.127930, Update Interval: 328.105713
+[2026.03.27-15.02.02:800][855]Cmd: DUPLICATE
+[2026.03.27-15.02.02:800][855]Cmd: ACTOR DUPLICATE
+[2026.03.27-15.02.12:352][619]Cmd: DUPLICATE
+[2026.03.27-15.02.12:352][619]Cmd: ACTOR DUPLICATE
+[2026.03.27-15.02.29:883][966]Cmd: DUPLICATE
+[2026.03.27-15.02.29:883][966]Cmd: ACTOR DUPLICATE
+[2026.03.27-15.02.32:570][187]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.03.27-15.02.44:065][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-15.02.44:115][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.27-15.02.44:264][201]LogSavePackage: Moving output files for package: /Game/MapsBundle/HellCage/Levels/HellCage_Final
+[2026.03.27-15.02.44:264][201]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/HellCage_FinalD979B03442801CDD94772B95B6BD06CD.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/MapsBundle/HellCage/Levels/HellCage_Final.umap'
+[2026.03.27-15.02.44:271][201]LogFileHelpers: All files are already saved.
+[2026.03.27-15.02.44:271][201]LogFileHelpers: Saving map 'HellCage_Final' took 0.181
+[2026.03.27-15.02.44:280][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.680 ms (total: 2.93 sec)
+[2026.03.27-15.02.44:304][201]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-15.02.44:304][201]LogContentValidation: Enabled validators:
+[2026.03.27-15.02.44:304][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-15.02.44:304][201]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-15.02.44:304][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-15.02.44:304][201]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-15.02.44:304][201]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-15.02.44:304][201]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-15.02.44:304][201]AssetCheck: /Game/MapsBundle/HellCage/Levels/HellCage_Final Validating asset
+[2026.03.27-15.02.47:468][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.27-15.02.48:239][515]LogSlate: Window 'Save Content' being destroyed
+[2026.03.27-15.02.48:247][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-15.02.48:268][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Attentuations/SA_WaterDrips] ([1] browsable assets)...
+[2026.03.27-15.02.48:268][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Attentuations/SA_WaterDrips]
+[2026.03.27-15.02.48:274][515]LogSavePackage: Moving output files for package: /Game/Audio/Attentuations/SA_WaterDrips
+[2026.03.27-15.02.48:274][515]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SA_WaterDrips8C52C619447D19F92CD82783A1D09457.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/Attentuations/SA_WaterDrips.uasset'
+[2026.03.27-15.02.48:281][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.301 ms (total: 2.96 sec)
+[2026.03.27-15.02.48:303][515]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-15.02.48:304][515]LogContentValidation: Enabled validators:
+[2026.03.27-15.02.48:304][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-15.02.48:304][515]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-15.02.48:304][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-15.02.48:304][515]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-15.02.48:304][515]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-15.02.48:304][515]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-15.02.48:304][515]AssetCheck: /Game/Audio/Attentuations/SA_WaterDrips Validating asset
+[2026.03.27-15.02.49:565][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-15.02.49:569][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-15.02.49:605][640]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.27-15.02.49:650][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045578s)
+[2026.03.27-15.02.49:650][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.045628s)
+[2026.03.27-15.02.49:665][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.27-15.02.49:665][640]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.03.27-15.02.49:667][640]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2026.03.27-15.02.49:667][640]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.03.27-15.02.49:667][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-15.02.49:667][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-15.02.49:667][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-15.02.49:667][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-15.02.49:667][640]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-15.02.49:667][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-15.02.49:667][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-15.02.49:667][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-15.02.49:667][640]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-15.02.49:667][640]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-15.02.49:668][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-15.02.49:670][640]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-15.02.49:683][640]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.27-15.02.49:684][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-15.02.49:684][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-15.02.49:684][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-15.02.49:684][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.03.27-15.02.49:684][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.03.27-15.02.49:686][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.03.27-15.02.49:686][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.03.27-15.02.49:686][640]LogInit: FAudioDevice initialized with ID 22.
+[2026.03.27-15.02.49:686][640]LogAudio: Display: Audio Device (ID: 22) registered with world 'HellCage_Final'.
+[2026.03.27-15.02.49:686][640]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.27-15.02.49:689][640]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-15.02.49:704][640]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.03.27-16.02.49
+[2026.03.27-15.02.49:704][640]LogWorld: Bringing up level for play took: 0.014799
+[2026.03.27-15.02.49:706][640]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.03.27-15.02.49:710][640]PIE: Server logged in
+[2026.03.27-15.02.49:711][640]PIE: Play in editor total start time 0,142 seconds.
+[2026.03.27-15.02.49:751][641]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.27-15.02.50:079][666]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.03.27-15.03.15:976][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-15.03.15:976][278]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.27-15.03.15:976][278]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-15.03.15:981][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-15.03.15:984][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-15.03.15:985][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-15.03.16:000][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-15.03.16:002][278]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.27-15.03.16:002][278]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.03.27-15.03.16:004][278]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.03.27-15.03.16:011][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.03.27-15.03.16:077][279]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.03.27-15.03.26:706][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-15.03.26:728][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/SC_WaterDrips] ([1] browsable assets)...
+[2026.03.27-15.03.26:728][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/SC_WaterDrips]
+[2026.03.27-15.03.26:728][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/SC_WaterDrips" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset" SILENT=true
+[2026.03.27-15.03.26:735][315]LogSavePackage: Moving output files for package: /Game/Audio/SoundCues/SC_WaterDrips
+[2026.03.27-15.03.26:735][315]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SC_WaterDrips49BC0DC043698B38232204A67CB06764.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset'
+[2026.03.27-15.03.26:741][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.917 ms (total: 3.00 sec)
+[2026.03.27-15.03.26:762][315]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-15.03.26:762][315]LogContentValidation: Enabled validators:
+[2026.03.27-15.03.26:762][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-15.03.26:762][315]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-15.03.26:762][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-15.03.26:762][315]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-15.03.26:762][315]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-15.03.26:762][315]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-15.03.26:762][315]AssetCheck: /Game/Audio/SoundCues/SC_WaterDrips Validating asset
+[2026.03.27-15.03.32:651][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-15.03.32:655][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-15.03.32:676][873]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.27-15.03.32:722][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046028s)
+[2026.03.27-15.03.32:722][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.046063s)
+[2026.03.27-15.03.32:736][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.27-15.03.32:738][873]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.03.27-15.03.32:739][873]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2026.03.27-15.03.32:739][873]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.03.27-15.03.32:739][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-15.03.32:739][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-15.03.32:739][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-15.03.32:739][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-15.03.32:739][873]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-15.03.32:739][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-15.03.32:739][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-15.03.32:739][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-15.03.32:739][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-15.03.32:739][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-15.03.32:739][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-15.03.32:741][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-15.03.32:753][873]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.27-15.03.32:753][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-15.03.32:753][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-15.03.32:753][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-15.03.32:753][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.03.27-15.03.32:753][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.03.27-15.03.32:755][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.03.27-15.03.32:755][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.03.27-15.03.32:755][873]LogInit: FAudioDevice initialized with ID 23.
+[2026.03.27-15.03.32:755][873]LogAudio: Display: Audio Device (ID: 23) registered with world 'HellCage_Final'.
+[2026.03.27-15.03.32:755][873]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.27-15.03.32:758][873]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-15.03.32:774][873]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.03.27-16.03.32
+[2026.03.27-15.03.32:774][873]LogWorld: Bringing up level for play took: 0.015800
+[2026.03.27-15.03.32:776][873]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.03.27-15.03.32:780][873]PIE: Server logged in
+[2026.03.27-15.03.32:782][873]PIE: Play in editor total start time 0,127 seconds.
+[2026.03.27-15.03.32:821][874]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.27-15.04.13:845][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-15.04.13:845][899]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.27-15.04.13:845][899]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-15.04.13:850][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-15.04.13:853][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-15.04.13:855][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-15.04.13:870][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-15.04.13:871][899]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.27-15.04.13:872][899]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.03.27-15.04.13:873][899]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.03.27-15.04.13:879][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.27-15.04.13:943][900]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.03.27-15.04.30:892][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-15.04.30:919][552]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/SC_WaterDrips] ([1] browsable assets)...
+[2026.03.27-15.04.30:920][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/SC_WaterDrips]
+[2026.03.27-15.04.30:920][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/SC_WaterDrips" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset" SILENT=true
+[2026.03.27-15.04.30:926][552]LogSavePackage: Moving output files for package: /Game/Audio/SoundCues/SC_WaterDrips
+[2026.03.27-15.04.30:927][552]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SC_WaterDrips25D3F46B442B2DD0DD30289F87AF5469.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_WaterDrips.uasset'
+[2026.03.27-15.04.30:934][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.182 ms (total: 3.04 sec)
+[2026.03.27-15.04.30:956][552]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-15.04.30:956][552]LogContentValidation: Enabled validators:
+[2026.03.27-15.04.30:956][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-15.04.30:956][552]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-15.04.30:956][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-15.04.30:956][552]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-15.04.30:956][552]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-15.04.30:956][552]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-15.04.30:956][552]AssetCheck: /Game/Audio/SoundCues/SC_WaterDrips Validating asset
