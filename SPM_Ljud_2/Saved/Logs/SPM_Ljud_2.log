@@ -5375,3 +5375,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.27-13.27.56:315][669]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.27-13.27.56:315][669]AssetCheck: /Game/Audio/SoundFX/Cells/Yoda/SW_Yoda_Lego Validating asset
 [2026.03.27-13.27.56:350][669]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-13.28.32:969][582]LogSlate: External Image Picker: DecompressImage failed
+[2026.03.27-13.28.59:814][646]LogSlate: Window 'Project Settings' being destroyed
+[2026.03.27-13.28.59:823][646]LogSlate: Window 'Project Settings' being destroyed
