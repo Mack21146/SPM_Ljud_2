@@ -6600,3 +6600,909 @@ Sampler Limit: 32
 [2026.03.30-10.09.58:200][716]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8556.515625
 [2026.03.30-10.09.58:366][729]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.30-10.09.58:366][729]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8556.668945, Update Interval: 332.694489
+[2026.03.30-10.16.14:392][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8932.509766
+[2026.03.30-10.16.15:390][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-10.16.15:390][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8933.175781, Update Interval: 349.597473
+[2026.03.30-10.22.56:443][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9334.515625
+[2026.03.30-10.22.57:444][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-10.22.57:444][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9335.181641, Update Interval: 314.722137
+[2026.03.30-10.27.13:601][124]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.30-10.27.13:605][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.30-10.27.13:633][124]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-10.27.13:680][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047988s)
+[2026.03.30-10.27.13:680][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.048033s)
+[2026.03.30-10.27.13:706][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.30-10.27.13:714][124]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.03.30-10.27.13:716][124]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2026.03.30-10.27.13:716][124]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2026.03.30-10.27.13:716][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.30-10.27.13:716][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.30-10.27.13:716][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.30-10.27.13:716][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.30-10.27.13:716][124]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.30-10.27.13:716][124]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.30-10.27.13:716][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.30-10.27.13:716][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.30-10.27.13:716][124]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.30-10.27.13:716][124]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.30-10.27.13:716][124]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.30-10.27.13:719][124]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.30-10.27.13:729][124]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.30-10.27.13:729][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.30-10.27.13:729][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.30-10.27.13:729][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.30-10.27.13:731][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2026.03.30-10.27.13:731][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2026.03.30-10.27.13:733][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2026.03.30-10.27.13:733][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2026.03.30-10.27.13:733][124]LogInit: FAudioDevice initialized with ID 38.
+[2026.03.30-10.27.13:733][124]LogAudio: Display: Audio Device (ID: 38) registered with world 'HellCage_Final'.
+[2026.03.30-10.27.13:733][124]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2026.03.30-10.27.13:736][124]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.30-10.27.13:753][124]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.03.30-12.27.13
+[2026.03.30-10.27.13:753][124]LogWorld: Bringing up level for play took: 0.016773
+[2026.03.30-10.27.13:755][124]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2026.03.30-10.27.13:759][124]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:00C9
+[2026.03.30-10.27.13:759][124]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.03.30-10.27.13:759][124]PIE: Server logged in
+[2026.03.30-10.27.13:762][124]PIE: Play in editor total start time 0,156 seconds.
+[2026.03.30-10.27.13:789][124]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.30-10.27.14:583][160]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.03.30-10.27.15:713][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-10.27.15:713][230]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-10.27.15:713][230]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-10.27.15:718][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-10.27.15:722][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.30-10.27.15:725][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-10.27.15:745][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.30-10.27.15:745][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2026.03.30-10.27.15:745][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2026.03.30-10.27.15:747][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2026.03.30-10.27.15:750][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-10.27.15:754][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.30-10.27.15:909][231]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2026.03.30-10.27.17:065][276]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-10.27.17:097][276]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-10.27.41:033][251]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.30-10.27.41:036][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.30-10.27.41:036][251]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-10.27.41:080][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041970s)
+[2026.03.30-10.27.41:080][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.042005s)
+[2026.03.30-10.27.41:097][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.30-10.27.41:100][251]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.03.30-10.27.41:102][251]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2026.03.30-10.27.41:103][251]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2026.03.30-10.27.41:103][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.30-10.27.41:103][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.30-10.27.41:103][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.30-10.27.41:103][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.30-10.27.41:103][251]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.30-10.27.41:103][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.30-10.27.41:103][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.30-10.27.41:103][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.30-10.27.41:103][251]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.30-10.27.41:103][251]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.30-10.27.41:103][251]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.30-10.27.41:104][251]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.30-10.27.41:115][251]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.30-10.27.41:115][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.30-10.27.41:115][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.30-10.27.41:115][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.30-10.27.41:116][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2026.03.30-10.27.41:116][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2026.03.30-10.27.41:118][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2026.03.30-10.27.41:118][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2026.03.30-10.27.41:118][251]LogInit: FAudioDevice initialized with ID 39.
+[2026.03.30-10.27.41:118][251]LogAudio: Display: Audio Device (ID: 39) registered with world 'HellCage_Final'.
+[2026.03.30-10.27.41:118][251]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2026.03.30-10.27.41:121][251]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.30-10.27.41:136][251]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.03.30-12.27.41
+[2026.03.30-10.27.41:137][251]LogWorld: Bringing up level for play took: 0.015478
+[2026.03.30-10.27.41:139][251]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2026.03.30-10.27.41:142][251]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:00C9
+[2026.03.30-10.27.41:142][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.03.30-10.27.41:143][251]PIE: Server logged in
+[2026.03.30-10.27.41:145][251]PIE: Play in editor total start time 0,108 seconds.
+[2026.03.30-10.27.41:166][251]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.30-10.27.41:662][279]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.03.30-10.27.48:245][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-10.27.48:245][669]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-10.27.48:245][669]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-10.27.48:251][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-10.27.48:254][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.30-10.27.48:258][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-10.27.48:276][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-10.27.48:278][669]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2026.03.30-10.27.48:278][669]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=4
+[2026.03.30-10.27.48:280][669]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=2
+[2026.03.30-10.27.48:289][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.30-10.27.48:411][670]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2026.03.30-10.27.51:347][708]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-10.27.51:353][708]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-10.29.05:048][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9703.073242
+[2026.03.30-10.29.06:049][266]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-10.29.06:049][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9703.743164, Update Interval: 322.531799
+[2026.03.30-10.29.41:269][530]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.30-10.29.41:274][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.30-10.29.41:304][530]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-10.29.41:347][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043021s)
+[2026.03.30-10.29.41:347][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.043100s)
+[2026.03.30-10.29.41:365][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.03.30-10.29.41:369][530]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.03.30-10.29.41:370][530]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2026.03.30-10.29.41:371][530]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2026.03.30-10.29.41:371][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.30-10.29.41:371][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.30-10.29.41:371][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.30-10.29.41:371][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.30-10.29.41:371][530]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.30-10.29.41:371][530]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.30-10.29.41:371][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.30-10.29.41:371][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.30-10.29.41:371][530]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.30-10.29.41:371][530]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.30-10.29.41:371][530]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.30-10.29.41:372][530]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.30-10.29.41:385][530]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.30-10.29.41:385][530]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.30-10.29.41:385][530]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.30-10.29.41:385][530]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.30-10.29.41:386][530]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2026.03.30-10.29.41:386][530]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2026.03.30-10.29.41:387][530]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2026.03.30-10.29.41:387][530]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2026.03.30-10.29.41:387][530]LogInit: FAudioDevice initialized with ID 40.
+[2026.03.30-10.29.41:387][530]LogAudio: Display: Audio Device (ID: 40) registered with world 'HellCage_Final'.
+[2026.03.30-10.29.41:387][530]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2026.03.30-10.29.41:391][530]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.30-10.29.41:405][530]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.03.30-12.29.41
+[2026.03.30-10.29.41:406][530]LogWorld: Bringing up level for play took: 0.014938
+[2026.03.30-10.29.41:408][530]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2026.03.30-10.29.41:411][530]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:00C9
+[2026.03.30-10.29.41:411][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.03.30-10.29.41:412][530]PIE: Server logged in
+[2026.03.30-10.29.41:414][530]PIE: Play in editor total start time 0,14 seconds.
+[2026.03.30-10.29.41:436][530]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.30-10.29.42:069][567]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.03.30-10.29.57:064][431]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (91 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50), Global Resolution Lod Bias (0.19)
+[2026.03.30-10.30.36:725][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-10.30.36:725][965]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-10.30.36:725][965]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-10.30.36:729][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-10.30.36:734][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.30-10.30.36:737][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-10.30.36:756][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-10.30.36:758][965]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2026.03.30-10.30.36:758][965]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=4
+[2026.03.30-10.30.36:760][965]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=2
+[2026.03.30-10.30.36:767][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.30-10.30.36:872][966]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2026.03.30-10.30.37:012][967]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.03.30-10.30.39:033][ 19]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-10.30.39:040][ 19]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-10.30.59:933][444]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2026.03.30-10.30.59:933][444]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2026.03.30-10.30.59:933][444]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2026.03.30-10.30.59:933][444]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2026.03.30-10.30.59:933][444]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:350]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:8]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.NumAdaptiveProbes:4]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:16]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:.5]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:4]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:16]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:350]]
+[2026.03.30-10.30.59:952][444]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:1]]
+[2026.03.30-10.30.59:952][444]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.GTAO.Numangles:4]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2026.03.30-10.30.59:952][444]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2026.03.30-10.30.59:954][444]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2026.03.30-10.30.59:954][444]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.HeterogeneousVolumes.ApplyFogInscattering:1]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:1024]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:1024]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.MaxSampleCount:16]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.HeterogeneousVolumes.UseExistenceMask:1]]
+[2026.03.30-10.30.59:954][444]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2026.03.30-10.30.59:954][444]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2026.03.30-10.30.59:954][444]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2026.03.30-10.30.59:954][444]LogConfig: Applying CVar settings from Section [LandscapeQuality@Cine] File [Scalability]
+[2026.03.30-10.30.59:967][444]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.03.30-10.31.03:247][446]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2026.03.30-10.31.03:247][446]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2026.03.30-10.31.03:247][446]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2026.03.30-10.31.03:247][446]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2026.03.30-10.31.03:247][446]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:100]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.NumAdaptiveProbes:8]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:70]]
+[2026.03.30-10.31.03:428][446]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2026.03.30-10.31.03:428][446]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2026.03.30-10.31.03:428][446]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2026.03.30-10.31.03:428][446]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:2]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:256]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.MaxSampleCount:8]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.HeterogeneousVolumes.UseExistenceMask:0]]
+[2026.03.30-10.31.03:428][446]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2026.03.30-10.31.03:428][446]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2026.03.30-10.31.03:428][446]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.03.30-10.31.03:428][446]LogConfig: Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+[2026.03.30-10.31.03:432][446]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2026.03.30-10.31.03:432][446]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2026.03.30-10.31.03:432][446]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2026.03.30-10.31.03:432][446]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2026.03.30-10.31.03:432][446]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:350]]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:8]]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.NumAdaptiveProbes:4]]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:16]]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:.5]]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:4]]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:16]]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:350]]
+[2026.03.30-10.31.03:445][446]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:1]]
+[2026.03.30-10.31.03:445][446]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2026.03.30-10.31.03:445][446]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2026.03.30-10.31.03:446][446]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2026.03.30-10.31.03:446][446]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:1024]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:1024]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.MaxSampleCount:16]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.HeterogeneousVolumes.UseExistenceMask:1]]
+[2026.03.30-10.31.03:446][446]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2026.03.30-10.31.03:446][446]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2026.03.30-10.31.03:446][446]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2026.03.30-10.31.03:446][446]LogConfig: Applying CVar settings from Section [LandscapeQuality@Cine] File [Scalability]
+[2026.03.30-10.31.03:496][450]LogContentStreaming: Texture pool size now 3000 MB
+[2026.03.30-10.31.03:496][450]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="3000"
+[2026.03.30-10.35.02:665][709]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10060.707031
+[2026.03.30-10.35.03:667][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-10.35.03:667][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10061.373047, Update Interval: 349.179962
+[2026.03.30-10.41.50:060][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10468.105469
+[2026.03.30-10.41.51:060][934]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-10.41.51:060][934]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10468.773438, Update Interval: 347.196869
+[2026.03.30-10.48.26:109][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10864.145508
+[2026.03.30-10.48.27:112][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-10.48.27:112][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10864.812500, Update Interval: 315.959961
+[2026.03.30-10.49.10:775][253]LogDerivedDataCache: C:/Users/mabl0912/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.30-10.54.13:822][162]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11211.859375
+[2026.03.30-10.54.14:824][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-10.54.14:824][165]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11212.523438, Update Interval: 310.270691
+[2026.03.30-11.00.24:200][273]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11582.214844
+[2026.03.30-11.00.25:201][276]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-11.00.25:201][276]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11582.881836, Update Interval: 300.617096
+[2026.03.30-11.06.05:575][297]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11923.586914
+[2026.03.30-11.06.06:572][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-11.06.06:572][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11924.250977, Update Interval: 312.312378
+[2026.03.30-11.12.13:954][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12291.982422
+[2026.03.30-11.12.15:289][406]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-11.12.15:289][406]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12292.983398, Update Interval: 326.230652
+[2026.03.30-11.18.25:346][516]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12663.373047
+[2026.03.30-11.18.26:348][519]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-11.18.26:348][519]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12664.042969, Update Interval: 302.816254
+[2026.03.30-11.24.14:721][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13012.758789
+[2026.03.30-11.24.15:720][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-11.24.15:720][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13013.427734, Update Interval: 314.262512
+[2026.03.30-11.30.04:428][613]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13362.458984
+[2026.03.30-11.30.05:429][616]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-11.30.05:429][616]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13363.125977, Update Interval: 318.926361
+[2026.03.30-11.36.17:483][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13735.516602
+[2026.03.30-11.36.18:484][735]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-11.36.18:484][735]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13736.183594, Update Interval: 334.679413
+[2026.03.30-11.42.29:202][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14107.245117
+[2026.03.30-11.42.30:204][850]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-11.42.30:204][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14107.915039, Update Interval: 351.459717
+[2026.03.30-11.49.10:790][ 52]LogDerivedDataCache: C:/Users/mabl0912/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.30-11.49.20:914][ 82]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14518.952148
+[2026.03.30-11.49.21:915][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-11.49.21:915][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14519.620117, Update Interval: 315.233002
+[2026.03.30-11.55.31:292][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14889.324219
+[2026.03.30-11.55.32:293][196]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-11.55.32:293][196]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14889.991211, Update Interval: 323.566406
+[2026.03.30-12.01.32:337][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15250.372070
+[2026.03.30-12.01.33:336][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-12.01.33:336][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15251.039062, Update Interval: 344.327515
+[2026.03.30-12.07.53:392][419]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15631.423828
+[2026.03.30-12.07.54:393][422]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-12.07.54:393][422]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15632.091797, Update Interval: 311.367523
+[2026.03.30-12.14.00:444][520]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15998.483398
+[2026.03.30-12.14.01:444][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-12.14.01:444][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15999.149414, Update Interval: 331.778931
+[2026.03.30-12.20.12:831][637]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16370.879883
+[2026.03.30-12.20.13:831][640]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-12.20.13:831][640]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16371.547852, Update Interval: 325.961487
+[2026.03.30-12.26.38:555][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16756.617188
+[2026.03.30-12.26.39:555][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-12.26.39:555][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16757.285156, Update Interval: 341.915955
+[2026.03.30-12.32.03:690][895]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.30-12.32.03:696][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.30-12.32.03:697][895]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.32.03:740][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042437s)
+[2026.03.30-12.32.03:740][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.042480s)
+[2026.03.30-12.32.03:764][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.03.30-12.32.03:770][895]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.03.30-12.32.03:772][895]LogPlayLevel: PIE: World Init took: (0.001954s)
+[2026.03.30-12.32.03:772][895]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2026.03.30-12.32.03:772][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.30-12.32.03:772][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.30-12.32.03:772][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.30-12.32.03:772][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.30-12.32.03:772][895]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.30-12.32.03:772][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.30-12.32.03:772][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.30-12.32.03:772][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.30-12.32.03:772][895]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.30-12.32.03:772][895]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.30-12.32.03:772][895]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.30-12.32.03:774][895]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.30-12.32.03:788][895]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.30-12.32.03:788][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.30-12.32.03:788][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.30-12.32.03:788][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.30-12.32.03:789][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2026.03.30-12.32.03:789][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2026.03.30-12.32.03:790][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2026.03.30-12.32.03:790][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2026.03.30-12.32.03:790][895]LogInit: FAudioDevice initialized with ID 41.
+[2026.03.30-12.32.03:790][895]LogAudio: Display: Audio Device (ID: 41) registered with world 'HellCage_Final'.
+[2026.03.30-12.32.03:791][895]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2026.03.30-12.32.03:794][895]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.30-12.32.03:811][895]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.03.30-14.32.03
+[2026.03.30-12.32.03:811][895]LogWorld: Bringing up level for play took: 0.017549
+[2026.03.30-12.32.03:813][895]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2026.03.30-12.32.03:818][895]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:00C9
+[2026.03.30-12.32.03:818][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.03.30-12.32.03:819][895]PIE: Server logged in
+[2026.03.30-12.32.03:821][895]PIE: Play in editor total start time 0,124 seconds.
+[2026.03.30-12.32.03:879][896]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.30-12.32.07:685][932]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.03.30-12.32.14:969][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.32.14:969][142]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.32.14:969][142]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.32.14:973][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.32.15:000][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.30-12.32.15:004][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.32.15:025][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.30-12.32.15:025][142]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2026.03.30-12.32.15:025][142]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2026.03.30-12.32.15:027][142]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2026.03.30-12.32.15:029][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.32.15:035][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.30-12.32.15:149][143]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2026.03.30-12.32.26:669][173]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.32.26:675][173]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.32.31:417][375]LogSlate: Took 0.000639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.30-12.32.31:418][375]LogRenderer: Using fallback RTPSO
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: ================================================
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Total job queries 878, among them cache hits 376 (42.82%), DDC hits 409 (46.58%), Duplicates 58 (6.61%)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Tracking 444 distinct input hashes that result in 319 distinct outputs (71.85%)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: RAM used: 4,01 MiB of 1,60 GiB budget. Usage: 0.24%
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Shaders Compiled: 35
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Jobs assigned 35, completed 35 (100%)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Average time worker was idle: 3106.58 s
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 1.14 s
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Job life time (pending + execution): average 0.75 s, max 1.24
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Shader code size: total 402,042 KiB, numShaders 37, average 10,865 KiB, min 1,727 KiB, max 20,98 KiB
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.75 s
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Jobs were issued in 35 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Average processing rate: 6.08 jobs/sec
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Total thread time: 17,372 s
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Total thread preprocess time: 9,819 s
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Percentage time preprocessing: 56.52%
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Effective parallelization: 3.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.188660
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 0.97 sec, max 1.00 sec, min 0.94 sec)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.72 sec, max 0.76 sec, min 0.70 sec)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.70 sec, max 0.74 sec, min 0.67 sec)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 16.74% of total time (compiled    5 times, average 0.58 sec, max 0.72 sec, min 0.48 sec)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.21% of total time (compiled    4 times, average 0.70 sec, max 0.74 sec, min 0.67 sec)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.44% of total time (compiled    8 times, average 0.34 sec, max 0.40 sec, min 0.29 sec)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.47% of total time (compiled    3 times, average 0.72 sec, max 0.76 sec, min 0.70 sec)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 11.14% of total time (compiled    2 times, average 0.97 sec, max 1.00 sec, min 0.94 sec)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: === Material stats ===
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Materials Translated:    219
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Material Translation Only: 0.04 s (14%)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: Material Cache Hits: 24 (11%)
+[2026.03.30-12.32.37:574][426]LogShaderCompilers: Display: ================================================
+[2026.03.30-12.32.52:877][978]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.30-12.33.00:092][125]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17138.173828
+[2026.03.30-12.33.00:621][131]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-12.33.00:621][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17138.667969, Update Interval: 344.798126
+[2026.03.30-12.33.12:552][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.03.30-12.33.13:160][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.30-12.33.13:212][688]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed] ([2] browsable assets)...
+[2026.03.30-12.33.13:221][688]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed]
+[2026.03.30-12.33.13:221][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed]
+[2026.03.30-12.33.13:254][688]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed
+[2026.03.30-12.33.13:255][688]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/ABP_Unarmed83D6494E43F62580467291A5CC014F77.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset'
+[2026.03.30-12.33.13:262][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.216 ms (total: 7.45 sec)
+[2026.03.30-12.33.13:287][688]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.30-12.33.13:287][688]LogContentValidation: Enabled validators:
+[2026.03.30-12.33.13:287][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.30-12.33.13:287][688]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.30-12.33.13:287][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.30-12.33.13:287][688]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.30-12.33.13:287][688]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.30-12.33.13:287][688]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.30-12.33.13:287][688]AssetCheck: /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed Validating asset
+[2026.03.30-12.33.24:853][936]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.30-12.33.24:857][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.30-12.33.24:858][936]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.33.24:901][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043225s)
+[2026.03.30-12.33.24:901][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.043262s)
+[2026.03.30-12.33.24:922][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.30-12.33.24:926][936]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.03.30-12.33.24:927][936]LogPlayLevel: PIE: World Init took: (0.001308s)
+[2026.03.30-12.33.24:928][936]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2026.03.30-12.33.24:928][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.30-12.33.24:928][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.30-12.33.24:928][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.30-12.33.24:928][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.30-12.33.24:928][936]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.30-12.33.24:928][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.30-12.33.24:928][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.30-12.33.24:928][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.30-12.33.24:928][936]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.30-12.33.24:928][936]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.30-12.33.24:928][936]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.30-12.33.24:929][936]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.30-12.33.24:942][936]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.30-12.33.24:942][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.30-12.33.24:942][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.30-12.33.24:943][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.30-12.33.24:943][936]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2026.03.30-12.33.24:943][936]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2026.03.30-12.33.24:945][936]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2026.03.30-12.33.24:945][936]LogInit: FAudioDevice initialized with ID 42.
+[2026.03.30-12.33.24:945][936]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2026.03.30-12.33.24:945][936]LogAudio: Display: Audio Device (ID: 42) registered with world 'HellCage_Final'.
+[2026.03.30-12.33.24:945][936]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2026.03.30-12.33.24:958][936]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.30-12.33.24:972][936]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.03.30-14.33.24
+[2026.03.30-12.33.24:973][936]LogWorld: Bringing up level for play took: 0.015019
+[2026.03.30-12.33.24:975][936]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.03.30-12.33.24:979][936]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:00C9
+[2026.03.30-12.33.24:979][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.03.30-12.33.24:980][936]PIE: Server logged in
+[2026.03.30-12.33.24:985][936]PIE: Play in editor total start time 0,128 seconds.
+[2026.03.30-12.33.25:049][936]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.30-12.33.36:029][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.33.36:029][965]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.33.36:030][965]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.33.36:032][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.33.36:525][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.30-12.33.36:529][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.33.36:549][965]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.30-12.33.36:550][965]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2026.03.30-12.33.36:550][965]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2026.03.30-12.33.36:552][965]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2026.03.30-12.33.36:556][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.33.36:561][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.30-12.33.38:865][966]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.03.30-12.33.50:239][ 23]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.33.50:428][ 23]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.33.57:976][ 97]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.30-12.33.57:981][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.30-12.33.57:981][ 97]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.33.58:022][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040793s)
+[2026.03.30-12.33.58:022][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.040831s)
+[2026.03.30-12.33.58:040][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.30-12.33.58:043][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.03.30-12.33.58:044][ 97]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2026.03.30-12.33.58:045][ 97]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2026.03.30-12.33.58:045][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.30-12.33.58:045][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.30-12.33.58:045][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.30-12.33.58:045][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.30-12.33.58:045][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.30-12.33.58:045][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.30-12.33.58:045][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.30-12.33.58:045][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.30-12.33.58:045][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.30-12.33.58:045][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.30-12.33.58:045][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.30-12.33.58:047][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.30-12.33.58:059][ 97]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.30-12.33.58:060][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.30-12.33.58:060][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.30-12.33.58:060][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.30-12.33.58:060][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2026.03.30-12.33.58:060][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2026.03.30-12.33.58:062][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2026.03.30-12.33.58:062][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2026.03.30-12.33.58:062][ 97]LogInit: FAudioDevice initialized with ID 43.
+[2026.03.30-12.33.58:062][ 97]LogAudio: Display: Audio Device (ID: 43) registered with world 'HellCage_Final'.
+[2026.03.30-12.33.58:062][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2026.03.30-12.33.58:065][ 97]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.30-12.33.58:080][ 97]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.03.30-14.33.58
+[2026.03.30-12.33.58:080][ 97]LogWorld: Bringing up level for play took: 0.014718
+[2026.03.30-12.33.58:082][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2026.03.30-12.33.58:086][ 97]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:00C9
+[2026.03.30-12.33.58:086][ 97]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.03.30-12.33.58:087][ 97]PIE: Server logged in
+[2026.03.30-12.33.58:088][ 97]PIE: Play in editor total start time 0,109 seconds.
+[2026.03.30-12.33.58:143][ 98]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.30-12.34.00:637][105]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.03.30-12.34.06:260][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.34.06:260][134]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.34.06:260][134]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.34.06:264][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.06:514][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.30-12.34.06:517][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.06:537][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.34.06:538][134]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2026.03.30-12.34.06:538][134]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2026.03.30-12.34.06:540][134]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2026.03.30-12.34.06:547][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.03.30-12.34.06:913][135]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2026.03.30-12.34.11:436][141]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.34.11:442][141]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.34.12:293][169]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.30-12.34.12:297][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.30-12.34.12:299][169]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.34.12:340][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041906s)
+[2026.03.30-12.34.12:340][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.041945s)
+[2026.03.30-12.34.12:361][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.30-12.34.12:363][169]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.03.30-12.34.12:365][169]LogPlayLevel: PIE: World Init took: (0.001330s)
+[2026.03.30-12.34.12:365][169]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2026.03.30-12.34.12:365][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.30-12.34.12:365][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.30-12.34.12:365][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.30-12.34.12:365][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.30-12.34.12:365][169]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.30-12.34.12:365][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.30-12.34.12:365][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.30-12.34.12:365][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.30-12.34.12:365][169]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.30-12.34.12:365][169]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.30-12.34.12:365][169]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.30-12.34.12:367][169]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.30-12.34.12:380][169]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.30-12.34.12:380][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.30-12.34.12:380][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.30-12.34.12:380][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.30-12.34.12:381][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2026.03.30-12.34.12:381][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2026.03.30-12.34.12:382][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2026.03.30-12.34.12:382][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2026.03.30-12.34.12:382][169]LogInit: FAudioDevice initialized with ID 44.
+[2026.03.30-12.34.12:382][169]LogAudio: Display: Audio Device (ID: 44) registered with world 'HellCage_Final'.
+[2026.03.30-12.34.12:382][169]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2026.03.30-12.34.12:386][169]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.30-12.34.12:401][169]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.03.30-14.34.12
+[2026.03.30-12.34.12:401][169]LogWorld: Bringing up level for play took: 0.014886
+[2026.03.30-12.34.12:403][169]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2026.03.30-12.34.12:406][169]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:00C9
+[2026.03.30-12.34.12:406][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.03.30-12.34.12:407][169]PIE: Server logged in
+[2026.03.30-12.34.12:408][169]PIE: Play in editor total start time 0,111 seconds.
+[2026.03.30-12.34.12:432][170]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.30-12.34.18:036][239]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.03.30-12.34.23:187][393]Cmd: LevelEditor.ToggleImmersive
+[2026.03.30-12.34.29:877][411]Cmd: LevelEditor.ToggleImmersive
+[2026.03.30-12.34.35:620][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.34.35:620][440]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.34.35:620][440]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.34.35:623][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.35:762][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.30-12.34.35:767][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.35:788][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.34.35:789][440]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2026.03.30-12.34.35:789][440]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2026.03.30-12.34.35:791][440]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2026.03.30-12.34.35:799][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.30-12.34.36:075][441]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2026.03.30-12.34.37:736][443]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.34.38:039][443]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.34.49:716][632]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.34.49:764][632]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.34.57:989][755]LogSlate: Window 'SW_MusicOutside' being destroyed
+[2026.03.30-12.34.57:993][755]LogSlate: Window 'SW_MusicOutside' being destroyed
+[2026.03.30-12.34.58:220][755]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.34.58:220][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.58:336][755]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.34.58:336][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.58:451][755]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.34.58:451][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.58:474][755]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.34.58:475][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.58:566][755]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.34.58:566][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.58:590][755]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.34.58:591][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.58:618][755]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.34.58:618][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.58:687][755]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.34.58:687][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.58:725][755]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.34.58:725][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.34.58:839][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.03.30-12.35.08:543][199]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.30-12.35.08:546][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.30-12.35.08:548][199]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.35.08:590][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042502s)
+[2026.03.30-12.35.08:590][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.042533s)
+[2026.03.30-12.35.08:609][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.30-12.35.08:610][199]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.03.30-12.35.08:612][199]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2026.03.30-12.35.08:612][199]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2026.03.30-12.35.08:612][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.30-12.35.08:612][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.30-12.35.08:612][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.30-12.35.08:612][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.30-12.35.08:612][199]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.30-12.35.08:612][199]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.30-12.35.08:612][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.30-12.35.08:612][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.30-12.35.08:612][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.30-12.35.08:612][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.30-12.35.08:612][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.30-12.35.08:614][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.30-12.35.08:626][199]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.30-12.35.08:627][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.30-12.35.08:627][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.30-12.35.08:627][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.30-12.35.08:628][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2026.03.30-12.35.08:628][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2026.03.30-12.35.08:629][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2026.03.30-12.35.08:629][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2026.03.30-12.35.08:629][199]LogInit: FAudioDevice initialized with ID 45.
+[2026.03.30-12.35.08:629][199]LogAudio: Display: Audio Device (ID: 45) registered with world 'HellCage_Final'.
+[2026.03.30-12.35.08:629][199]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2026.03.30-12.35.08:632][199]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.30-12.35.08:647][199]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.03.30-14.35.08
+[2026.03.30-12.35.08:648][199]LogWorld: Bringing up level for play took: 0.015048
+[2026.03.30-12.35.08:650][199]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2026.03.30-12.35.08:653][199]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:00C9
+[2026.03.30-12.35.08:653][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.03.30-12.35.08:654][199]PIE: Server logged in
+[2026.03.30-12.35.08:655][199]PIE: Play in editor total start time 0,109 seconds.
+[2026.03.30-12.35.08:719][200]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.30-12.35.10:092][221]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.03.30-12.36.26:669][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.36.26:669][762]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.36.26:670][762]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.36.26:673][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.36.26:725][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.30-12.36.26:729][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.36.26:753][762]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.30-12.36.26:753][762]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2026.03.30-12.36.26:753][762]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2026.03.30-12.36.26:756][762]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2026.03.30-12.36.26:759][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.36.26:763][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.03.30-12.36.26:854][763]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2026.03.30-12.37.17:981][ 13]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.37.18:042][ 13]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.37.21:961][170]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.30-12.37.21:965][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.30-12.37.21:966][170]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.37.22:006][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040182s)
+[2026.03.30-12.37.22:006][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.040215s)
+[2026.03.30-12.37.22:026][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.30-12.37.22:028][170]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.03.30-12.37.22:029][170]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2026.03.30-12.37.22:029][170]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2026.03.30-12.37.22:029][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.30-12.37.22:029][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.30-12.37.22:029][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.30-12.37.22:029][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.30-12.37.22:029][170]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.30-12.37.22:029][170]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.30-12.37.22:029][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.30-12.37.22:029][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.30-12.37.22:029][170]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.30-12.37.22:029][170]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.30-12.37.22:029][170]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.30-12.37.22:031][170]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.30-12.37.22:044][170]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.30-12.37.22:044][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.30-12.37.22:044][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.30-12.37.22:044][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.30-12.37.22:045][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2026.03.30-12.37.22:045][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2026.03.30-12.37.22:047][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2026.03.30-12.37.22:047][170]LogInit: FAudioDevice initialized with ID 46.
+[2026.03.30-12.37.22:047][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2026.03.30-12.37.22:047][170]LogAudio: Display: Audio Device (ID: 46) registered with world 'HellCage_Final'.
+[2026.03.30-12.37.22:047][170]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2026.03.30-12.37.22:051][170]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.30-12.37.22:066][170]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.03.30-14.37.22
+[2026.03.30-12.37.22:066][170]LogWorld: Bringing up level for play took: 0.015965
+[2026.03.30-12.37.22:068][170]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2026.03.30-12.37.22:072][170]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:00C9
+[2026.03.30-12.37.22:072][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.03.30-12.37.22:073][170]PIE: Server logged in
+[2026.03.30-12.37.22:075][170]PIE: Play in editor total start time 0,109 seconds.
+[2026.03.30-12.37.22:125][171]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.30-12.37.24:202][187]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.03.30-12.38.40:831][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.38.40:831][732]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.03.30-12.38.40:832][732]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-12.38.40:835][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.38.40:900][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.30-12.38.40:904][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-12.38.40:922][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.30-12.38.40:924][732]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2026.03.30-12.38.40:924][732]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=4
+[2026.03.30-12.38.40:925][732]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=2
+[2026.03.30-12.38.40:934][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.30-12.38.41:040][733]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2026.03.30-12.38.46:598][760]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.38.46:673][760]LogSlate: Window 'Message Log' being destroyed
+[2026.03.30-12.39.16:846][928]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17514.968750
+[2026.03.30-12.39.17:845][931]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-12.39.17:845][931]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17515.630859, Update Interval: 351.153900
