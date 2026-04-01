@@ -2312,3 +2312,565 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.01-13.39.42:546][965]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 651.427307
 [2026.04.01-13.39.43:546][968]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.01-13.39.43:546][968]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 652.094360, Update Interval: 333.417755
+[2026.04.01-13.43.52:548][434]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (High Definition Audio Device), InstanceID=1
+[2026.04.01-13.43.52:548][434]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{dba75129-c318-430a-856e-ce786be4ef81}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.04.01-13.43.52:551][435]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{dba75129-c318-430a-856e-ce786be4ef81}]
+[2026.04.01-13.43.52:551][435]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.04.01-13.43.52:551][435]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.04.01-13.43.52:709][443]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{dba75129-c318-430a-856e-ce786be4ef81}, Name=Headphones (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=153.84
+[2026.04.01-13.43.52:709][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.04.01-13.43.52:709][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.01-13.43.52:712][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.01-13.43.57:125][661]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.04.01-13.43.57:236][663]LogPSOHitching: Encountered 300 PSO creation hitches so far (79 graphics, 221 compute). 0 of them were precached.
+[2026.04.01-13.43.58:218][702]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.01-13.43.58:230][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.01-13.43.58:240][702]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.04.01-13.43.58:240][702]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.04.01-13.43.58:241][702]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.43.58:300][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058261s)
+[2026.04.01-13.43.58:300][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.058498s)
+[2026.04.01-13.43.58:320][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.04.01-13.43.58:324][702]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.04.01-13.43.58:327][702]LogPlayLevel: PIE: World Init took: (0.002634s)
+[2026.04.01-13.43.58:328][702]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.04.01-13.43.58:328][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.01-13.43.58:328][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.01-13.43.58:328][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.01-13.43.58:328][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.01-13.43.58:328][702]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.01-13.43.58:328][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.01-13.43.58:328][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.01-13.43.58:328][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.01-13.43.58:328][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.01-13.43.58:328][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.01-13.43.58:328][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.01-13.43.58:330][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.01-13.43.58:345][702]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.04.01-13.43.58:345][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.01-13.43.58:345][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.01-13.43.58:345][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.01-13.43.58:347][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.04.01-13.43.58:347][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.04.01-13.43.58:348][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.04.01-13.43.58:348][702]LogInit: FAudioDevice initialized with ID 2.
+[2026.04.01-13.43.58:348][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.04.01-13.43.58:348][702]LogAudio: Display: Audio Device (ID: 2) registered with world 'HellCage_Final'.
+[2026.04.01-13.43.58:348][702]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.01-13.43.58:354][702]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.01-13.43.58:401][702]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.01-13.43.58:421][702]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.04.01-15.43.58
+[2026.04.01-13.43.58:423][702]LogWorld: Bringing up level for play took: 0.020542
+[2026.04.01-13.43.58:425][702]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2026.04.01-13.43.58:483][702]PIE: Server logged in
+[2026.04.01-13.43.58:485][702]PIE: Play in editor total start time 0,261 seconds.
+[2026.04.01-13.43.58:552][702]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.01-13.43.58:699][705]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.04.01-13.44.03:552][  3]LogShaderCompilers: Display: ================================================
+[2026.04.01-13.44.03:552][  3]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.01-13.44.03:552][  3]LogShaderCompilers: Display: Total job queries 18 486, among them cache hits 2 601 (14.07%), DDC hits 12 341 (66.76%), Duplicates 2 907 (15.73%)
+[2026.04.01-13.44.03:552][  3]LogShaderCompilers: Display: Tracking 12 978 distinct input hashes that result in 11 869 distinct outputs (91.45%)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: RAM used: 158,51 MiB of 1,60 GiB budget. Usage: 9.67%
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Shaders Compiled: 637
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Jobs assigned 637, completed 637 (100%)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Average time worker was idle: 26.27 s
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Time job spent in pending queue: average 2.74 s, longest 18.62 s
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Job execution time: average 4.24 s, max 17.13 s
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Job life time (pending + execution): average 6.98 s, max 24.25
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Shader code size: total 9,918 MiB, numShaders 660, average 15,389 KiB, min 2,105 KiB, max 55,505 KiB
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 76.69 s
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.50%
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Jobs were issued in 260 batches (only local compilation was used), average 2.45 jobs/batch
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Average processing rate: 8.31 jobs/sec
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Total thread time: 784,477 s
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Total thread preprocess time: 329,244 s
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Percentage time preprocessing: 41.97%
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Effective parallelization: 10.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.639293
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    6 times, average 8.03 sec, max 11.38 sec, min 2.14 sec)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    5 times, average 7.38 sec, max 9.27 sec, min 3.65 sec)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 3.64 sec, max 5.29 sec, min 2.25 sec)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 3.06 sec, max 3.21 sec, min 2.91 sec)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 2.88 sec, max 3.51 sec, min 2.30 sec)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 29.41% of total time (compiled   80 times, average 2.88 sec, max 3.51 sec, min 2.30 sec)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.95% of total time (compiled   28 times, average 2.51 sec, max 9.31 sec, min 0.69 sec)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 7.43% of total time (compiled   16 times, average 3.64 sec, max 5.29 sec, min 2.25 sec)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 6.14% of total time (compiled    6 times, average 8.03 sec, max 11.38 sec, min 2.14 sec)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display:                                                 FLumenCardCS - 4.70% of total time (compiled    5 times, average 7.38 sec, max 9.27 sec, min 3.65 sec)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: === Material stats ===
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Materials Translated:    178
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Material Translation Only: 0.06 s (31%)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.01-13.44.03:553][  3]LogShaderCompilers: Display: ================================================
+[2026.04.01-13.44.06:695][193]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:0094
+[2026.04.01-13.44.06:695][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.04.01-13.44.20:537][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.44.20:538][984]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.44.20:538][984]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.04.01-13.44.20:545][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.44.20:552][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.01-13.44.20:556][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.44.20:575][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.44.20:576][984]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.01-13.44.20:576][984]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.04.01-13.44.20:578][984]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.04.01-13.44.20:597][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.04.01-13.44.20:711][985]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2026.04.01-13.44.22:455][ 65]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.44.22:502][ 65]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.44.23:479][115]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.01-13.44.23:484][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.01-13.44.23:486][115]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.44.23:547][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062358s)
+[2026.04.01-13.44.23:548][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.062408s)
+[2026.04.01-13.44.23:567][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.01-13.44.23:568][115]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.04.01-13.44.23:569][115]LogPlayLevel: PIE: World Init took: (0.001566s)
+[2026.04.01-13.44.23:571][115]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.04.01-13.44.23:571][115]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.01-13.44.23:571][115]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.01-13.44.23:571][115]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.01-13.44.23:571][115]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.01-13.44.23:571][115]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.01-13.44.23:571][115]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.01-13.44.23:571][115]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.01-13.44.23:571][115]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.01-13.44.23:571][115]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.01-13.44.23:571][115]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.01-13.44.23:571][115]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.01-13.44.23:573][115]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.01-13.44.23:588][115]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.04.01-13.44.23:588][115]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.01-13.44.23:588][115]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.01-13.44.23:588][115]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.01-13.44.23:589][115]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.04.01-13.44.23:589][115]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.04.01-13.44.23:590][115]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.04.01-13.44.23:591][115]LogInit: FAudioDevice initialized with ID 3.
+[2026.04.01-13.44.23:591][115]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.04.01-13.44.23:591][115]LogAudio: Display: Audio Device (ID: 3) registered with world 'HellCage_Final'.
+[2026.04.01-13.44.23:591][115]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.01-13.44.23:594][115]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.01-13.44.23:613][115]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.04.01-15.44.23
+[2026.04.01-13.44.23:614][115]LogWorld: Bringing up level for play took: 0.020228
+[2026.04.01-13.44.23:616][115]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.04.01-13.44.23:621][115]PIE: Server logged in
+[2026.04.01-13.44.23:622][115]PIE: Play in editor total start time 0,137 seconds.
+[2026.04.01-13.44.23:678][116]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.01-13.44.23:749][118]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.04.01-13.44.25:846][226]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:0094
+[2026.04.01-13.44.25:846][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.04.01-13.45.24:454][445]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 993.335999
+[2026.04.01-13.45.24:627][455]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.01-13.45.24:627][455]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 993.491821, Update Interval: 328.719147
+[2026.04.01-13.45.57:964][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.45.57:964][371]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.45.57:964][371]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.04.01-13.45.57:970][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.45.57:972][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.01-13.45.57:977][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.45.57:998][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.45.58:000][371]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.01-13.45.58:000][371]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.04.01-13.45.58:001][371]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.04.01-13.45.58:012][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.04.01-13.45.58:116][372]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.04.01-13.45.59:883][447]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.45.59:928][447]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.46.16:918][212]LogAssetEditorSubsystem: Opening Asset editor for SoundAttenuation /Game/Audio/Attentuations/SA_HangingLight.SA_HangingLight
+[2026.04.01-13.46.45:118][408]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Audio/BP_HangingLight.BP_HangingLight
+[2026.04.01-13.46.45:118][408]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.04.01-13.46.45:517][408]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2026.04.01-13.47.20:638][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.01-13.47.21:168][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-13.47.21:238][878]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Audio/BP_HangingLight] ([2] browsable assets)...
+[2026.04.01-13.47.21:238][878]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.04.01-13.47.21:304][878]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Audio/BP_HangingLight.BP_HangingLight]
+[2026.04.01-13.47.21:304][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Audio/BP_HangingLight]
+[2026.04.01-13.47.21:322][878]LogSavePackage: Moving output files for package: /Game/Blueprints/Audio/BP_HangingLight
+[2026.04.01-13.47.21:322][878]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/BP_HangingLight6128DF3B4D844BA21777C796EAB18975.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Blueprints/Audio/BP_HangingLight.uasset'
+[2026.04.01-13.47.21:332][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.715 ms (total: 252.264 ms)
+[2026.04.01-13.47.21:361][878]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.01-13.47.21:361][878]LogContentValidation: Enabled validators:
+[2026.04.01-13.47.21:361][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-13.47.21:361][878]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-13.47.21:361][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-13.47.21:361][878]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-13.47.21:361][878]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-13.47.21:361][878]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-13.47.21:361][878]AssetCheck: /Game/Blueprints/Audio/BP_HangingLight Validating asset
+[2026.04.01-13.47.38:078][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-13.47.38:191][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.04.01-13.47.38:408][709]LogSavePackage: Moving output files for package: /Game/MapsBundle/HellCage/Levels/HellCage_Final
+[2026.04.01-13.47.38:408][709]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/HellCage_Final900EF8E8437D60918AB98DA060D0F097.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/MapsBundle/HellCage/Levels/HellCage_Final.umap'
+[2026.04.01-13.47.38:420][709]LogFileHelpers: Saving map 'HellCage_Final' took 0.265
+[2026.04.01-13.47.38:429][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 351.559 ms (total: 603.823 ms)
+[2026.04.01-13.47.38:461][709]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.01-13.47.38:461][709]LogContentValidation: Enabled validators:
+[2026.04.01-13.47.38:461][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-13.47.38:461][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-13.47.38:461][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-13.47.38:461][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-13.47.38:461][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-13.47.38:461][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-13.47.38:462][709]AssetCheck: /Game/MapsBundle/HellCage/Levels/HellCage_Final Validating asset
+[2026.04.01-13.47.39:884][782]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.01-13.47.39:890][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.01-13.47.39:891][782]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.47.39:949][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059146s)
+[2026.04.01-13.47.39:949][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.059177s)
+[2026.04.01-13.47.39:969][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.04.01-13.47.39:970][782]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.04.01-13.47.39:972][782]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2026.04.01-13.47.39:973][782]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.04.01-13.47.39:973][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.01-13.47.39:973][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.01-13.47.39:973][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.01-13.47.39:973][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.01-13.47.39:973][782]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.01-13.47.39:973][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.01-13.47.39:973][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.01-13.47.39:973][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.01-13.47.39:973][782]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.01-13.47.39:973][782]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.01-13.47.39:973][782]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.01-13.47.39:974][782]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.01-13.47.39:992][782]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.04.01-13.47.39:992][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.01-13.47.39:992][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.01-13.47.39:992][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.01-13.47.39:993][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.04.01-13.47.39:993][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.04.01-13.47.39:995][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.04.01-13.47.39:995][782]LogInit: FAudioDevice initialized with ID 4.
+[2026.04.01-13.47.39:995][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.04.01-13.47.39:995][782]LogAudio: Display: Audio Device (ID: 4) registered with world 'HellCage_Final'.
+[2026.04.01-13.47.39:995][782]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.01-13.47.39:998][782]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.01-13.47.40:018][782]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.04.01-15.47.40
+[2026.04.01-13.47.40:020][782]LogWorld: Bringing up level for play took: 0.020390
+[2026.04.01-13.47.40:021][782]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.04.01-13.47.40:025][782]PIE: Server logged in
+[2026.04.01-13.47.40:027][782]PIE: Play in editor total start time 0,137 seconds.
+[2026.04.01-13.47.40:084][783]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.01-13.47.40:163][785]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.04.01-13.47.43:324][966]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:0094
+[2026.04.01-13.47.43:324][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.04.01-13.48.36:664][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.48.36:664][674]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.48.36:664][674]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.04.01-13.48.36:671][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.48.36:678][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.01-13.48.36:683][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.48.36:706][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.48.36:708][674]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.01-13.48.36:708][674]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.04.01-13.48.36:710][674]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.04.01-13.48.36:719][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.01-13.48.36:820][675]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.04.01-13.48.37:931][721]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.48.37:977][721]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.48.51:710][297]LogSlate: Took 0.000613 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.01-13.49.35:341][127]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.01-13.50.12:901][144]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.01-13.50.12:908][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.01-13.50.12:934][144]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.50.12:993][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059134s)
+[2026.04.01-13.50.12:993][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.059176s)
+[2026.04.01-13.50.13:011][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.04.01-13.50.13:018][144]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.04.01-13.50.13:019][144]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2026.04.01-13.50.13:020][144]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.04.01-13.50.13:020][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.01-13.50.13:020][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.01-13.50.13:020][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.01-13.50.13:020][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.01-13.50.13:020][144]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.01-13.50.13:020][144]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.01-13.50.13:020][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.01-13.50.13:020][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.01-13.50.13:020][144]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.01-13.50.13:020][144]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.01-13.50.13:020][144]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.01-13.50.13:022][144]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.01-13.50.13:039][144]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.04.01-13.50.13:039][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.01-13.50.13:039][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.01-13.50.13:039][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.01-13.50.13:039][144]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.04.01-13.50.13:039][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.04.01-13.50.13:041][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.04.01-13.50.13:041][144]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.04.01-13.50.13:041][144]LogInit: FAudioDevice initialized with ID 5.
+[2026.04.01-13.50.13:041][144]LogAudio: Display: Audio Device (ID: 5) registered with world 'HellCage_Final'.
+[2026.04.01-13.50.13:041][144]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.01-13.50.13:043][144]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.01-13.50.13:063][144]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.04.01-15.50.13
+[2026.04.01-13.50.13:064][144]LogWorld: Bringing up level for play took: 0.019914
+[2026.04.01-13.50.13:066][144]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.04.01-13.50.13:070][144]PIE: Server logged in
+[2026.04.01-13.50.13:073][144]PIE: Play in editor total start time 0,165 seconds.
+[2026.04.01-13.50.13:129][145]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.01-13.50.13:198][146]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.04.01-13.50.21:838][705]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:0094
+[2026.04.01-13.50.21:838][705]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.04.01-13.50.40:555][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.50.40:555][962]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.50.40:556][962]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.04.01-13.50.40:560][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.50.40:567][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.01-13.50.40:572][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.50.40:594][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.50.40:595][962]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.01-13.50.40:595][962]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.04.01-13.50.40:597][962]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.04.01-13.50.40:607][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.04.01-13.50.40:778][963]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.04.01-13.51.02:933][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1331.812622
+[2026.04.01-13.51.03:142][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.01-13.51.03:142][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1332.001099, Update Interval: 347.229828
+[2026.04.01-13.51.05:991][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-13.51.06:057][959]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Audio/BP_HangingLight] ([2] browsable assets)...
+[2026.04.01-13.51.06:101][959]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Audio/BP_HangingLight.BP_HangingLight]
+[2026.04.01-13.51.06:101][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Audio/BP_HangingLight]
+[2026.04.01-13.51.06:114][959]LogSavePackage: Moving output files for package: /Game/Blueprints/Audio/BP_HangingLight
+[2026.04.01-13.51.06:115][959]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/BP_HangingLight0E5E47CE4DBD515A56F46C9D7C3ED39B.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Blueprints/Audio/BP_HangingLight.uasset'
+[2026.04.01-13.51.06:122][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.586 ms (total: 734.409 ms)
+[2026.04.01-13.51.06:150][959]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.01-13.51.06:150][959]LogContentValidation: Enabled validators:
+[2026.04.01-13.51.06:150][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-13.51.06:150][959]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-13.51.06:150][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-13.51.06:150][959]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-13.51.06:150][959]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-13.51.06:150][959]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-13.51.06:150][959]AssetCheck: /Game/Blueprints/Audio/BP_HangingLight Validating asset
+[2026.04.01-13.51.21:805][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.01-13.51.22:256][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-13.51.22:323][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Audio/BP_HangingLight] ([2] browsable assets)...
+[2026.04.01-13.51.22:362][650]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Audio/BP_HangingLight.BP_HangingLight]
+[2026.04.01-13.51.22:362][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Audio/BP_HangingLight]
+[2026.04.01-13.51.22:376][650]LogSavePackage: Moving output files for package: /Game/Blueprints/Audio/BP_HangingLight
+[2026.04.01-13.51.22:376][650]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/BP_HangingLightDD5D0D9A4788293333BFD2A3A0483A44.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Blueprints/Audio/BP_HangingLight.uasset'
+[2026.04.01-13.51.22:383][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.163 ms (total: 861.573 ms)
+[2026.04.01-13.51.22:411][650]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.01-13.51.22:411][650]LogContentValidation: Enabled validators:
+[2026.04.01-13.51.22:411][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-13.51.22:411][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-13.51.22:411][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-13.51.22:411][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-13.51.22:411][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-13.51.22:411][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-13.51.22:411][650]AssetCheck: /Game/Blueprints/Audio/BP_HangingLight Validating asset
+[2026.04.01-13.51.26:858][859]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.51.26:895][859]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.51.27:917][927]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.01-13.51.27:922][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.01-13.51.27:944][927]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.51.28:002][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058303s)
+[2026.04.01-13.51.28:002][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.058345s)
+[2026.04.01-13.51.28:021][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.04.01-13.51.28:025][927]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.04.01-13.51.28:026][927]LogPlayLevel: PIE: World Init took: (0.001615s)
+[2026.04.01-13.51.28:027][927]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.04.01-13.51.28:027][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.01-13.51.28:027][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.01-13.51.28:027][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.01-13.51.28:027][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.01-13.51.28:027][927]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.01-13.51.28:027][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.01-13.51.28:027][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.01-13.51.28:027][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.01-13.51.28:027][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.01-13.51.28:027][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.01-13.51.28:027][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.01-13.51.28:029][927]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.01-13.51.28:045][927]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.04.01-13.51.28:045][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.01-13.51.28:045][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.01-13.51.28:046][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.01-13.51.28:046][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.04.01-13.51.28:046][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.04.01-13.51.28:048][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.04.01-13.51.28:048][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.04.01-13.51.28:048][927]LogInit: FAudioDevice initialized with ID 6.
+[2026.04.01-13.51.28:048][927]LogAudio: Display: Audio Device (ID: 6) registered with world 'HellCage_Final'.
+[2026.04.01-13.51.28:048][927]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.01-13.51.28:051][927]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.01-13.51.28:071][927]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.04.01-15.51.28
+[2026.04.01-13.51.28:071][927]LogWorld: Bringing up level for play took: 0.020540
+[2026.04.01-13.51.28:073][927]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.04.01-13.51.28:078][927]PIE: Server logged in
+[2026.04.01-13.51.28:080][927]PIE: Play in editor total start time 0,158 seconds.
+[2026.04.01-13.51.28:136][928]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.01-13.51.28:201][929]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.04.01-13.51.32:840][222]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:0094
+[2026.04.01-13.51.32:840][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.04.01-13.52.05:984][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.52.05:985][448]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.52.05:985][448]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.04.01-13.52.05:990][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.52.06:000][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.01-13.52.06:005][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.52.06:026][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.01-13.52.06:026][448]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.01-13.52.06:026][448]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.04.01-13.52.06:028][448]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.04.01-13.52.06:033][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.52.06:039][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.01-13.52.06:206][449]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.04.01-13.52.07:475][502]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.52.07:501][502]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.52.27:458][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-13.52.27:516][955]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Audio/BP_HangingLight] ([2] browsable assets)...
+[2026.04.01-13.52.27:555][955]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Audio/BP_HangingLight.BP_HangingLight]
+[2026.04.01-13.52.27:555][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Audio/BP_HangingLight]
+[2026.04.01-13.52.27:569][955]LogSavePackage: Moving output files for package: /Game/Blueprints/Audio/BP_HangingLight
+[2026.04.01-13.52.27:570][955]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/BP_HangingLight6D6CA3BF40A6A8D7C44B6985255424B9.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Blueprints/Audio/BP_HangingLight.uasset'
+[2026.04.01-13.52.27:580][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.955 ms (total: 984.529 ms)
+[2026.04.01-13.52.27:601][955]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.01-13.52.27:601][955]LogContentValidation: Enabled validators:
+[2026.04.01-13.52.27:601][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-13.52.27:601][955]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-13.52.27:601][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-13.52.27:601][955]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-13.52.27:601][955]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-13.52.27:601][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-13.52.27:602][955]AssetCheck: /Game/Blueprints/Audio/BP_HangingLight Validating asset
+[2026.04.01-13.52.30:407][102]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.04.01-13.52.55:222][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-13.52.55:284][478]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Audio/BP_HangingLight] ([2] browsable assets)...
+[2026.04.01-13.52.55:324][478]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Audio/BP_HangingLight.BP_HangingLight]
+[2026.04.01-13.52.55:324][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Audio/BP_HangingLight]
+[2026.04.01-13.52.55:339][478]LogSavePackage: Moving output files for package: /Game/Blueprints/Audio/BP_HangingLight
+[2026.04.01-13.52.55:340][478]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/BP_HangingLight598A79BC47F1EAAB3E5279A586D85833.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Blueprints/Audio/BP_HangingLight.uasset'
+[2026.04.01-13.52.55:351][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.239 ms (total: 1.11 sec)
+[2026.04.01-13.52.55:381][478]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.01-13.52.55:381][478]LogContentValidation: Enabled validators:
+[2026.04.01-13.52.55:381][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-13.52.55:381][478]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-13.52.55:381][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-13.52.55:381][478]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-13.52.55:381][478]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-13.52.55:381][478]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-13.52.55:381][478]AssetCheck: /Game/Blueprints/Audio/BP_HangingLight Validating asset
+[2026.04.01-13.52.56:139][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.04.01-13.52.56:660][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-13.52.56:721][548]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Audio/BP_HangingLight] ([2] browsable assets)...
+[2026.04.01-13.52.56:761][548]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Audio/BP_HangingLight.BP_HangingLight]
+[2026.04.01-13.52.56:761][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Audio/BP_HangingLight]
+[2026.04.01-13.52.56:775][548]LogSavePackage: Moving output files for package: /Game/Blueprints/Audio/BP_HangingLight
+[2026.04.01-13.52.56:775][548]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/BP_HangingLight50870A5046E8C7A17016EFB1D89B2510.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Blueprints/Audio/BP_HangingLight.uasset'
+[2026.04.01-13.52.56:787][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.154 ms (total: 1.23 sec)
+[2026.04.01-13.52.56:813][548]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.01-13.52.56:813][548]LogContentValidation: Enabled validators:
+[2026.04.01-13.52.56:813][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-13.52.56:813][548]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-13.52.56:813][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-13.52.56:813][548]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-13.52.56:813][548]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-13.52.56:813][548]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-13.52.56:814][548]AssetCheck: /Game/Blueprints/Audio/BP_HangingLight Validating asset
+[2026.04.01-13.53.32:887][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.01-13.53.33:495][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-13.53.33:563][525]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Audio/BP_HangingLight] ([2] browsable assets)...
+[2026.04.01-13.53.33:602][525]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Audio/BP_HangingLight.BP_HangingLight]
+[2026.04.01-13.53.33:602][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Audio/BP_HangingLight]
+[2026.04.01-13.53.33:618][525]LogSavePackage: Moving output files for package: /Game/Blueprints/Audio/BP_HangingLight
+[2026.04.01-13.53.33:619][525]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/BP_HangingLight81880F7A49563F855FB8C0A6BADF7948.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Blueprints/Audio/BP_HangingLight.uasset'
+[2026.04.01-13.53.33:629][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.403 ms (total: 1.37 sec)
+[2026.04.01-13.53.33:658][525]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.01-13.53.33:658][525]LogContentValidation: Enabled validators:
+[2026.04.01-13.53.33:658][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-13.53.33:658][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-13.53.33:658][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-13.53.33:658][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-13.53.33:658][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-13.53.33:658][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-13.53.33:658][525]AssetCheck: /Game/Blueprints/Audio/BP_HangingLight Validating asset
+[2026.04.01-13.53.35:977][670]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.01-13.53.35:982][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.01-13.53.35:982][670]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.53.36:039][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057751s)
+[2026.04.01-13.53.36:040][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.057783s)
+[2026.04.01-13.53.36:059][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.01-13.53.36:061][670]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.04.01-13.53.36:063][670]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2026.04.01-13.53.36:064][670]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.04.01-13.53.36:064][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.01-13.53.36:064][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.01-13.53.36:064][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.01-13.53.36:064][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.01-13.53.36:064][670]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.01-13.53.36:064][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.01-13.53.36:064][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.01-13.53.36:064][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.01-13.53.36:064][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.01-13.53.36:064][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.01-13.53.36:064][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.01-13.53.36:066][670]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.01-13.53.36:082][670]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.04.01-13.53.36:083][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.01-13.53.36:083][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.01-13.53.36:083][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.01-13.53.36:083][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.04.01-13.53.36:083][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.04.01-13.53.36:085][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.04.01-13.53.36:085][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.04.01-13.53.36:085][670]LogInit: FAudioDevice initialized with ID 7.
+[2026.04.01-13.53.36:085][670]LogAudio: Display: Audio Device (ID: 7) registered with world 'HellCage_Final'.
+[2026.04.01-13.53.36:085][670]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.01-13.53.36:089][670]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.01-13.53.36:107][670]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.04.01-15.53.36
+[2026.04.01-13.53.36:108][670]LogWorld: Bringing up level for play took: 0.019758
+[2026.04.01-13.53.36:110][670]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.04.01-13.53.36:115][670]PIE: Server logged in
+[2026.04.01-13.53.36:116][670]PIE: Play in editor total start time 0,135 seconds.
+[2026.04.01-13.53.36:180][671]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.01-13.53.36:246][672]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2026.04.01-13.53.39:016][853]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass
+	BP_Music_C /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final:PersistentLevel.SW_MusicOutside_Blueprint_C_0
+	Function /Game/Audio/Music/BP_Music.BP_Music_C:ExecuteUbergraph_BP_Music:0094
+[2026.04.01-13.53.39:016][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_SpawnSound2D_ReturnValue_1 in not an UClass". Node:  Fade Out Graph:  EventGraph Function:  Execute Ubergraph BP Music Blueprint:  BP_Music
+[2026.04.01-13.54.46:515][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.54.46:515][374]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.54.46:515][374]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.04.01-13.54.46:520][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.54.46:534][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.01-13.54.46:539][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.54.46:561][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.01-13.54.46:561][374]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.01-13.54.46:561][374]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.04.01-13.54.46:563][374]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.04.01-13.54.46:567][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.54.46:573][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.01-13.54.46:699][375]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.04.01-13.54.47:932][421]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.54.47:984][421]LogSlate: Window 'Message Log' being destroyed
