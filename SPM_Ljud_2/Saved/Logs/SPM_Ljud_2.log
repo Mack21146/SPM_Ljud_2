@@ -2874,3 +2874,209 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.01-13.54.46:699][375]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2026.04.01-13.54.47:932][421]LogSlate: Window 'Message Log' being destroyed
 [2026.04.01-13.54.47:984][421]LogSlate: Window 'Message Log' being destroyed
+[2026.04.01-13.56.35:028][602]LogSlate: Window 'BP_HangingLight' being destroyed
+[2026.04.01-13.56.35:071][602]LogSlate: Window 'BP_HangingLight' being destroyed
+[2026.04.01-13.56.35:075][602]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.01-13.56.35:076][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.56.35:121][602]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.01-13.56.35:121][602]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.01-13.56.35:121][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.56.35:174][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.04.01-13.56.43:466][ 70]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.01-13.56.43:472][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.01-13.56.43:472][ 70]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.56.43:530][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058906s)
+[2026.04.01-13.56.43:531][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.058936s)
+[2026.04.01-13.56.43:550][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.04.01-13.56.43:551][ 70]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.04.01-13.56.43:552][ 70]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2026.04.01-13.56.43:554][ 70]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.04.01-13.56.43:554][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.01-13.56.43:554][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.01-13.56.43:554][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.01-13.56.43:554][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.01-13.56.43:554][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.01-13.56.43:554][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.01-13.56.43:554][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.01-13.56.43:554][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.01-13.56.43:554][ 70]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.01-13.56.43:554][ 70]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.01-13.56.43:554][ 70]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.01-13.56.43:556][ 70]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.01-13.56.43:572][ 70]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.04.01-13.56.43:572][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.01-13.56.43:572][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.01-13.56.43:572][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.01-13.56.43:572][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.04.01-13.56.43:572][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.04.01-13.56.43:574][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.04.01-13.56.43:574][ 70]LogInit: FAudioDevice initialized with ID 8.
+[2026.04.01-13.56.43:574][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.04.01-13.56.43:574][ 70]LogAudio: Display: Audio Device (ID: 8) registered with world 'HellCage_Final'.
+[2026.04.01-13.56.43:574][ 70]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.01-13.56.43:577][ 70]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.01-13.56.43:597][ 70]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.04.01-15.56.43
+[2026.04.01-13.56.43:597][ 70]LogWorld: Bringing up level for play took: 0.019715
+[2026.04.01-13.56.43:599][ 70]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.04.01-13.56.43:604][ 70]PIE: Server logged in
+[2026.04.01-13.56.43:606][ 70]PIE: Play in editor total start time 0,134 seconds.
+[2026.04.01-13.56.43:682][ 71]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.01-13.57.00:345][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.57.00:345][943]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.57.00:346][943]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.04.01-13.57.00:350][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.57.00:352][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.01-13.57.00:356][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.57.00:377][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.57.00:378][943]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.01-13.57.00:378][943]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.04.01-13.57.00:380][943]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.04.01-13.57.00:390][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.04.01-13.57.00:440][944]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.04.01-13.57.06:965][328]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Audio/SoundCues/SC_Mumbling.SC_Mumbling
+[2026.04.01-13.57.10:480][497]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1699.361694
+[2026.04.01-13.57.10:675][507]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.01-13.57.10:675][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1699.537354, Update Interval: 329.566956
+[2026.04.01-13.57.15:113][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-13.57.15:180][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/SC_Mumbling] ([1] browsable assets)...
+[2026.04.01-13.57.15:180][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/SC_Mumbling]
+[2026.04.01-13.57.15:181][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/SC_Mumbling" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_Mumbling.uasset" SILENT=true
+[2026.04.01-13.57.15:188][739]LogSavePackage: Moving output files for package: /Game/Audio/SoundCues/SC_Mumbling
+[2026.04.01-13.57.15:189][739]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SC_Mumbling439C9249496A25FE6057A99767ACC642.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_Mumbling.uasset'
+[2026.04.01-13.57.15:198][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.906 ms (total: 1.46 sec)
+[2026.04.01-13.57.15:226][739]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.01-13.57.15:226][739]LogContentValidation: Enabled validators:
+[2026.04.01-13.57.15:226][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-13.57.15:226][739]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-13.57.15:226][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-13.57.15:226][739]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-13.57.15:226][739]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-13.57.15:226][739]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-13.57.15:226][739]AssetCheck: /Game/Audio/SoundCues/SC_Mumbling Validating asset
+[2026.04.01-13.57.19:772][975]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.01-13.57.19:779][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.01-13.57.19:779][975]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.57.19:849][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070391s)
+[2026.04.01-13.57.19:850][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.070423s)
+[2026.04.01-13.57.19:881][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.04.01-13.57.19:882][975]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.04.01-13.57.19:885][975]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2026.04.01-13.57.19:886][975]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.04.01-13.57.19:886][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.01-13.57.19:886][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.01-13.57.19:886][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.01-13.57.19:886][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.01-13.57.19:886][975]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.01-13.57.19:886][975]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.01-13.57.19:886][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.01-13.57.19:886][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.01-13.57.19:886][975]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.01-13.57.19:886][975]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.01-13.57.19:886][975]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.01-13.57.19:888][975]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.01-13.57.19:904][975]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.04.01-13.57.19:904][975]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.01-13.57.19:904][975]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.01-13.57.19:904][975]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.01-13.57.19:904][975]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.04.01-13.57.19:904][975]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.04.01-13.57.19:906][975]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.04.01-13.57.19:906][975]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.04.01-13.57.19:906][975]LogInit: FAudioDevice initialized with ID 9.
+[2026.04.01-13.57.19:906][975]LogAudio: Display: Audio Device (ID: 9) registered with world 'HellCage_Final'.
+[2026.04.01-13.57.19:906][975]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.01-13.57.19:910][975]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.01-13.57.19:930][975]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.04.01-15.57.19
+[2026.04.01-13.57.19:931][975]LogWorld: Bringing up level for play took: 0.020035
+[2026.04.01-13.57.19:932][975]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.04.01-13.57.19:936][975]PIE: Server logged in
+[2026.04.01-13.57.19:938][975]PIE: Play in editor total start time 0,16 seconds.
+[2026.04.01-13.57.19:996][976]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.01-13.57.31:195][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.57.31:195][575]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.57.31:195][575]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.04.01-13.57.31:202][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.57.31:203][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.01-13.57.31:209][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.57.31:231][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.01-13.57.31:231][575]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.01-13.57.31:231][575]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.04.01-13.57.31:232][575]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.04.01-13.57.31:237][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.57.31:243][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.01-13.57.31:317][576]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.04.01-13.57.37:001][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-13.57.37:070][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SoundCues/SC_Mumbling] ([1] browsable assets)...
+[2026.04.01-13.57.37:070][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundCues/SC_Mumbling]
+[2026.04.01-13.57.37:070][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundCues/SC_Mumbling" FILE="../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_Mumbling.uasset" SILENT=true
+[2026.04.01-13.57.37:080][850]LogSavePackage: Moving output files for package: /Game/Audio/SoundCues/SC_Mumbling
+[2026.04.01-13.57.37:080][850]LogSavePackage: Moving '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Saved/SC_Mumbling31A138BB4B85FD5D74B5F1BD382A0D43.tmp' to '../../../../../../Users/mabl0912/Documents/GitHub/SPM_Ljud_2/SPM_Ljud_2/Content/Audio/SoundCues/SC_Mumbling.uasset'
+[2026.04.01-13.57.37:091][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.911 ms (total: 1.55 sec)
+[2026.04.01-13.57.37:116][850]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.01-13.57.37:116][850]LogContentValidation: Enabled validators:
+[2026.04.01-13.57.37:116][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-13.57.37:116][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-13.57.37:116][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-13.57.37:116][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-13.57.37:116][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-13.57.37:116][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-13.57.37:116][850]AssetCheck: /Game/Audio/SoundCues/SC_Mumbling Validating asset
+[2026.04.01-13.57.38:319][909]LogSlate: Window 'SC_Mumbling' being destroyed
+[2026.04.01-13.57.38:366][909]LogSlate: Window 'SC_Mumbling' being destroyed
+[2026.04.01-13.57.39:312][960]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.01-13.57.39:317][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.01-13.57.39:318][960]LogPlayLevel: Creating play world package: /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.57.39:377][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058935s)
+[2026.04.01-13.57.39:377][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsBundle/HellCage/Levels/HellCage_Final.HellCage_Final to /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final (0.058985s)
+[2026.04.01-13.57.39:395][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.01-13.57.39:400][960]LogChaosDD: Creating Chaos Debug Draw Scene for world HellCage_Final
+[2026.04.01-13.57.39:401][960]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2026.04.01-13.57.39:401][960]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.04.01-13.57.39:401][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.01-13.57.39:401][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.01-13.57.39:401][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.01-13.57.39:401][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.01-13.57.39:401][960]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.01-13.57.39:401][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.01-13.57.39:401][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.01-13.57.39:401][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.01-13.57.39:402][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.01-13.57.39:402][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.01-13.57.39:402][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.01-13.57.39:404][960]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.01-13.57.39:419][960]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.04.01-13.57.39:419][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.01-13.57.39:419][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.01-13.57.39:419][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.01-13.57.39:419][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.04.01-13.57.39:419][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.04.01-13.57.39:422][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.04.01-13.57.39:422][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.04.01-13.57.39:422][960]LogInit: FAudioDevice initialized with ID 10.
+[2026.04.01-13.57.39:422][960]LogAudio: Display: Audio Device (ID: 10) registered with world 'HellCage_Final'.
+[2026.04.01-13.57.39:422][960]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.01-13.57.39:426][960]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.01-13.57.39:445][960]LogWorld: Bringing World /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final.HellCage_Final up for play (max tick rate 0) at 2026.04.01-15.57.39
+[2026.04.01-13.57.39:446][960]LogWorld: Bringing up level for play took: 0.019681
+[2026.04.01-13.57.39:448][960]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.04.01-13.57.39:452][960]PIE: Server logged in
+[2026.04.01-13.57.39:454][960]PIE: Play in editor total start time 0,137 seconds.
+[2026.04.01-13.57.39:512][961]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.01-13.57.48:335][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.57.48:335][431]LogWorld: BeginTearingDown for /Game/MapsBundle/HellCage/Levels/UEDPIE_0_HellCage_Final
+[2026.04.01-13.57.48:336][431]LogWorld: UWorld::CleanupWorld for HellCage_Final, bSessionEnded=true, bCleanupResources=true
+[2026.04.01-13.57.48:340][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.57.48:344][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.01-13.57.48:349][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.01-13.57.48:369][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.01-13.57.48:371][431]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.01-13.57.48:371][431]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.04.01-13.57.48:372][431]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.04.01-13.57.48:383][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.04.01-13.57.48:459][432]LogPlayLevel: Display: Destroying online subsystem :Context_14
